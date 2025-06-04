@@ -1,0 +1,11 @@
+# Ignore R session files and temp folders
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Ignore all CSVs except key outputs
+*.csv
+!USMeaslesCases.csv
+!USMeaslesDeaths.csv
+!Exposures.csv
