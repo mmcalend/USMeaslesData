@@ -16,7 +16,6 @@ This reconstruction enables daily trend analysis, but may not reflect official c
 
 - `USMeaslesCases.csv`: Daily case time series by county
 - `USMeaslesDeaths.csv`: Manually compiled data on confirmed measles-related deaths
-- `Exposures.csv`: Data on reported exposure events (from secondary ArcGIS feature service)
 
 ## License
 
