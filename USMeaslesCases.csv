@@ -341,3 +341,13 @@ Unknown County/Counties,Oklahoma,2025-06-11,1,339,NA,NA,NA,NA,NA,NA,NA,Texas Out
 Unknown County,South Dakota,2025-06-11,1,340,NA,NA,NA,NA,NA,NA,NA,Unknown
 Ector County,Texas,2025-06-11,1,341,TX,48,135,48135,165171,183.2,901.82,Texas Outbreak
 El Paso County,Texas,2025-06-11,1,342,TX,48,141,48141,865657,852.6,1015.29,Texas Outbreak
+Eastern Iowa,Iowa,NA,1,343,NA,NA,NA,NA,NA,NA,NA,Unknown
+Johnson County,Iowa,NA,1,344,IA,19,103,19103,152854,245.3,623.06,No
+Gray County,Kansas,NA,1,345,KS,20,069,20069,5653,6.5,869.3,Texas Outbreak
+Haskell County,Kansas,NA,3,346,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
+Unknown County,Minnesota,NA,1,347,NA,NA,NA,NA,NA,NA,NA,Unknown
+Eastern Iowa,Iowa,2025-06-13,1,348,NA,NA,NA,NA,NA,NA,NA,Unknown
+Johnson County,Iowa,2025-06-13,1,349,IA,19,103,19103,152854,245.3,623.06,No
+Gray County,Kansas,2025-06-13,1,350,KS,20,069,20069,5653,6.5,869.3,Texas Outbreak
+Haskell County,Kansas,2025-06-13,3,351,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
+Unknown County,Minnesota,2025-06-13,1,352,NA,NA,NA,NA,NA,NA,NA,Unknown
