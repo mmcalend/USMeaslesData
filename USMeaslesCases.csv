@@ -48,7 +48,7 @@ Howard County,Maryland,2025-03-07,1,46,MD,24,027,24027,332317,1311.4,253.4,No
 Prince George's County,Maryland,2025-03-18,2,47,MD,24,033,24033,967201,1982,487.99,No
 Ingham County,Michigan,2025-04-12,1,48,MI,26,065,26065,284900,508.1,560.71,Unknown
 Kent County,Michigan,2025-03-30,1,49,MI,26,081,26081,657974,754.6,871.94,No
-Macomb County,Michigan,2025-04-02,1,50,MI,26,099,26099,881217,1822.1,483.64,No
+Macomb County,Michigan,2025-04-02,1,50,MI,26,099,26099,881217,1822.1,483.64,"No for first case, second case unknown"
 Montcalm County,Michigan,2025-04-07,1,51,MI,26,117,26117,66614,92.4,720.75,Montcalm Michigan Outbreak
 Montcalm County,Michigan,2025-04-09,1,52,MI,26,117,26117,66614,92.4,720.75,Montcalm Michigan Outbreak
 Montcalm County,Michigan,2025-04-15,1,53,MI,26,117,26117,66614,92.4,720.75,Montcalm Michigan Outbreak
@@ -112,9 +112,9 @@ Oklahoma County,Oklahoma,2025-04-09,6,110,OK,40,109,40109,796292,1108.4,718.44,N
 Oklahoma County,Oklahoma,2025-04-20,1,111,OK,40,109,40109,796292,1108.4,718.44,NA
 Oklahoma County,Oklahoma,2025-05-04,4,112,OK,40,109,40109,796292,1108.4,718.44,NA
 Bucks County,Pennsylvania,2025-03-25,1,113,PA,42,017,42017,646538,1042.2,620.35,Texas Outbreak
-Erie County,Pennsylvania,2025-03-28,1,114,PA,42,049,42049,270876,336.9,804,Erie County Outbreak
-Erie County,Pennsylvania,2025-04-12,2,115,PA,42,049,42049,270876,336.9,804,Erie County Outbreak
-Erie County,Pennsylvania,2025-04-20,3,116,PA,42,049,42049,270876,336.9,804,Erie County Outbreak
+Erie County,Pennsylvania,2025-03-28,1,114,PA,42,049,42049,270876,336.9,804,"Erie County Outbreak, Complete"
+Erie County,Pennsylvania,2025-04-12,2,115,PA,42,049,42049,270876,336.9,804,"Erie County Outbreak, Complete"
+Erie County,Pennsylvania,2025-04-20,3,116,PA,42,049,42049,270876,336.9,804,"Erie County Outbreak, Complete"
 Montgomery County,Pennsylvania,2025-02-26,1,117,PA,42,091,42091,856553,1758.1,487.21,No
 Philadelphia County,Pennsylvania,2025-03-10,1,118,PA,42,101,42101,1603797,11823.9,135.64,No
 Philadelphia County,Pennsylvania,2025-04-09,1,119,PA,42,101,42101,1603797,11823.9,135.64,No
@@ -255,7 +255,7 @@ New York County,New York,2025-02-27,3,253,NY,36,061,36061,1694251,74146.7,22.85,
 Ontario County,New York,2025-02-27,1,254,NY,36,069,36069,112458,169.7,662.55,NA
 Orange County,New York,2025-02-27,1,255,NY,36,071,36071,401310,478.6,838.59,"Under Investigation, Unrelated to ongoing outbreaks"
 Grand Forks County,North Dakota,2025-02-27,3,256,ND,38,035,38035,73170,50.8,1439.42,Under Investigation
-Erie County,Pennsylvania,2025-02-27,1,257,PA,42,049,42049,270876,336.9,804,Erie County Outbreak
+Erie County,Pennsylvania,2025-02-27,1,257,PA,42,049,42049,270876,336.9,804,"Erie County Outbreak, Complete"
 Unknown County,Pennsylvania,2025-02-27,1,258,NA,NA,NA,NA,NA,NA,NA,Unknown
 Middle Tennessee,Tennessee,2025-02-27,2,259,TN,NA,NA,NA,NA,NA,NA,Tennessee Outbreak
 Collin County,Texas,2025-02-27,1,260,TX,48,085,48085,1064465,1201.6,885.87,Texas Outbreak
@@ -351,3 +351,11 @@ Johnson County,Iowa,2025-06-13,1,349,IA,19,103,19103,152854,245.3,623.06,No
 Gray County,Kansas,2025-06-13,1,350,KS,20,069,20069,5653,6.5,869.3,Texas Outbreak
 Haskell County,Kansas,2025-06-13,3,351,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
 Unknown County,Minnesota,2025-06-13,1,352,NA,NA,NA,NA,NA,NA,NA,Unknown
+Boulder County,Colorado,NA,1,353,CO,08,013,08013,330758,446.7,740.47,No
+Leon County,Florida,NA,1,354,FL,12,073,12073,292198,416.4,701.79,"Unknown, acquired domestically"
+Macomb County,Michigan,NA,1,355,MI,26,099,26099,881217,1822.1,483.64,"No for first case, second case unknown"
+Franklin County,Ohio,NA,1,356,OH,39,049,39049,1323807,2435.1,543.63,Unknown
+Unknown County/Counties,Oklahoma,NA,1,357,NA,NA,NA,NA,NA,NA,NA,Texas Outbreak
+Unknown US State(s),Unknown State(s),NA,5,358,NA,NA,NA,NA,NA,NA,NA,Unknown
+District of Columbia,District of Columbia,2025-06-16,1,359,DC,11,001,11001,689545,11179.4,61.68,NA
+Gallatin County,Montana,2025-06-16,1,360,MT,30,031,30031,118960,45.2,2633.78,Montana Outbreak
