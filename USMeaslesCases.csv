@@ -1,5 +1,5 @@
 County,State,Report_Date,Cases,OBJECTID,STATE_ABBR,STATE_FIPS,COUNTY_FIPS,FIPS,POPULATION,POP_SQMI,SQMI,Related_to_Outbreak
-Kenai Peninsula Borough,Alaska,2025-02-13,1,1,AK,02,122,02122,58799,3.6,16432.29,No
+Kenai Peninsula Borough,Alaska,2025-02-13,1,1,AK,02,122,02122,58799,3.6,16432.29,Unknown
 Faulkner County,Arkansas,2025-04-08,1,2,AR,05,045,05045,123498,186,664.09,Unknown
 Faulkner County,Arkansas,2025-04-27,1,3,AR,05,045,05045,123498,186,664.09,Unknown
 Faulkner County,Arkansas,2025-05-07,2,4,AR,05,045,05045,123498,186,664.09,Unknown
@@ -7,8 +7,8 @@ Saline County,Arkansas,2025-04-08,1,5,AR,05,125,05125,123416,169,730.47,Unknown
 Saline County,Arkansas,2025-04-19,1,6,AR,05,125,05125,123416,169,730.47,Unknown
 Fresno County,California,2025-03-09,1,7,CA,06,019,06019,1008654,167.8,6011.13,No
 Fresno County,California,2025-03-17,1,8,CA,06,019,06019,1008654,167.8,6011.13,No
-Los Angeles County,California,2025-03-09,1,9,CA,06,037,06037,10014009,2451.4,4085.07,NA
-Los Angeles County,California,2025-05-03,1,10,CA,06,037,06037,10014009,2451.4,4085.07,NA
+Los Angeles County,California,2025-03-09,1,9,CA,06,037,06037,10014009,2451.4,4085.07,Texas Outbreak
+Los Angeles County,California,2025-05-03,1,10,CA,06,037,06037,10014009,2451.4,4085.07,Texas Outbreak
 Orange County,California,2025-02-23,1,11,CA,06,059,06059,3186989,4003.4,796.08,No
 Riverside County,California,2025-04-01,1,12,CA,06,065,06065,2418185,331.1,7303.18,No
 Tuolumne County,California,2025-03-16,2,13,CA,06,109,06109,55620,24.5,2274.45,No
@@ -19,9 +19,9 @@ Denver County,Colorado,2025-04-23,1,17,CO,08,031,08031,715522,4624.3,154.73,Texa
 Pueblo County,Colorado,2025-03-29,1,18,CO,08,101,08101,168162,70.1,2397.76,No
 Broward County,Florida,2025-04-23,1,19,FL,12,011,12011,1944375,1591.9,1221.39,No
 Miami-Dade County,Florida,2025-03-04,1,20,FL,12,086,12086,2701767,1360.4,1985.95,No
-Fulton County,Georgia,2025-05-17,1,21,GA,13,121,13121,1066710,1996.5,534.29,No
-Gwinnett County,Georgia,2025-01-26,1,22,GA,13,135,13135,957062,2191.2,436.78,Metro-Atlanta Outbreak
-Gwinnett County,Georgia,2025-02-05,2,23,GA,13,135,13135,957062,2191.2,436.78,Metro-Atlanta Outbreak
+Fulton County,Georgia,2025-05-17,1,21,GA,13,121,13121,1066710,1996.5,534.29,Greater Atlanta Outbreak
+Gwinnett County,Georgia,2025-01-26,1,22,GA,13,135,13135,957062,2191.2,436.78,Metro-Atlanta Outbreak #1
+Gwinnett County,Georgia,2025-02-05,2,23,GA,13,135,13135,957062,2191.2,436.78,Metro-Atlanta Outbreak #1
 Honolulu County,Hawaii,2025-04-06,1,24,HI,15,003,15003,1016508,1696.2,599.3,No
 Honolulu County,Hawaii,2025-04-12,1,25,HI,15,003,15003,1016508,1696.2,599.3,No
 Cassia County,Idaho,2025-05-21,1,26,ID,16,031,16031,24655,9.6,2580.73,NA
@@ -222,32 +222,32 @@ King County,Washington,2025-04-20,1,220,WA,53,033,53033,2269675,1053.9,2153.65,N
 King County,Washington,2025-05-21,1,221,WA,53,033,53033,2269675,1053.9,2153.65,No
 Snohomish County,Washington,2025-02-19,1,222,WA,53,061,53061,827957,393.3,2104.92,No
 Snohomish County,Washington,2025-03-31,1,223,WA,53,061,53061,827957,393.3,2104.92,No
-Middle Tennessee,Tennessee,2025-03-19,1,224,TN,NA,NA,NA,NA,NA,NA,Tennessee Outbreak
-Middle Tennessee,Tennessee,2025-03-30,3,225,TN,NA,NA,NA,NA,NA,NA,Tennessee Outbreak
-Northwestern Region,Virginia,2025-04-17,1,226,NA,NA,NA,NA,NA,NA,NA,No
-Northwestern Region,Virginia,2025-05-21,1,227,NA,NA,NA,NA,NA,NA,NA,No
+Middle Tennessee,Tennessee,2025-03-19,1,224,NA,NA,NA,NA,NA,NA,NA,NA
+Middle Tennessee,Tennessee,2025-03-30,3,225,NA,NA,NA,NA,NA,NA,NA,NA
+Northwestern Region,Virginia,2025-04-17,1,226,VA,NA,NA,NA,NA,NA,NA,No
+Northwestern Region,Virginia,2025-05-21,1,227,VA,NA,NA,NA,NA,NA,NA,No
 Region 1,Louisiana,2025-04-17,1,228,LA,NA,NA,NA,NA,NA,NA,No
 Region 1,Louisiana,2025-04-20,1,229,LA,NA,NA,NA,NA,NA,NA,No
-Unknown County,Illinois,2025-04-21,1,230,NA,NA,NA,NA,NA,NA,NA,Under investigation
-Unknown County,Illinois,2025-05-03,3,231,NA,NA,NA,NA,NA,NA,NA,Under investigation
-Unknown County,Illinois,2025-05-06,2,232,NA,NA,NA,NA,NA,NA,NA,Under investigation
-Los Angeles County,California,2025-04-23,1,233,CA,06,037,06037,10014009,2451.4,4085.07,NA
-Central Iowa,Iowa,2025-05-21,1,234,NA,NA,NA,NA,NA,NA,NA,Unknown
-Kenai Peninsula Borough,Alaska,2025-02-27,1,235,AK,02,122,02122,58799,3.6,16432.29,No
+Unknown County,Illinois,2025-04-21,1,230,NA,NA,NA,NA,NA,NA,NA,NA
+Unknown County,Illinois,2025-05-03,3,231,NA,NA,NA,NA,NA,NA,NA,NA
+Unknown County,Illinois,2025-05-06,2,232,NA,NA,NA,NA,NA,NA,NA,NA
+Los Angeles County,California,2025-04-23,1,233,CA,06,037,06037,10014009,2451.4,4085.07,Texas Outbreak
+Central Iowa,Iowa,2025-05-21,1,234,IA,NA,NA,NA,NA,NA,NA,Unknown
+Kenai Peninsula Borough,Alaska,2025-02-27,1,235,AK,02,122,02122,58799,3.6,16432.29,Unknown
 Ashtabula County,Ohio,2025-02-27,6,236,OH,39,007,39007,97574,137.6,709.33,"Ashtabula County, Ohio Outbreak"
 Cochran County,Texas,2025-02-27,1,237,TX,48,079,48079,2547,3.3,775.17,Texas Outbreak
 Dallam County,Texas,2025-02-27,1,238,TX,48,111,48111,7115,4.7,1505.14,Texas Outbreak
-Anchorage Municipality,Alaska,2025-05-27,1,239,AK,02,020,02020,291247,167.9,1734.36,No
+Anchorage Municipality,Alaska,2025-05-27,1,239,AK,02,020,02020,291247,167.9,1734.36,Unknown
 Arapahoe County,Colorado,2025-05-27,1,240,CO,08,005,08005,655070,813.2,805.5,Arapahoe County Outbreak; note: 3rd case is in an international visitor
 Flathead County,Montana,2025-05-27,1,241,MT,30,029,30029,104357,19.9,5256.01,Under investigation
 Gallatin County,Montana,2025-05-27,1,242,MT,30,031,30031,118960,45.2,2633.78,Montana Outbreak
 Placer County,California,2025-02-27,1,243,CA,06,061,06061,404739,269.4,1502.24,No
 San Mateo County,California,2025-02-27,1,244,CA,06,081,06081,764442,1709.4,447.21,No
-Unknown County,Illinois,2025-02-27,2,245,NA,NA,NA,NA,NA,NA,NA,Under investigation
+Unknown County,Illinois,2025-02-27,2,245,NA,NA,NA,NA,NA,NA,NA,NA
 Gray County,Kansas,2025-02-27,3,246,KS,20,069,20069,5653,6.5,869.3,Texas Outbreak
 Pawnee County,Kansas,2025-02-27,1,247,KS,20,145,20145,6253,8.3,754.65,Texas Outbreak
-Unknown County/Counties (Related to Outbreaks),Kansas,2025-02-27,8,248,NA,NA,NA,NA,NA,NA,NA,Texas Outbreak
-Unknown County/Counties (unlinked to outbreaks),Kansas,2025-02-27,2,249,NA,NA,NA,NA,NA,NA,NA,No
+Unknown County/Counties (Related to Outbreaks),Kansas,2025-02-27,8,248,KS,NA,NA,NA,NA,NA,NA,Texas Outbreak
+Unknown County/Counties (unlinked to outbreaks),Kansas,2025-02-27,2,249,NA,NA,NA,NA,NA,NA,NA,NA
 St. Louis County,Missouri,2025-02-27,1,250,MO,29,189,29189,1004125,1919.3,523.17,NA
 Sheridan County,Nebraska,2025-02-27,1,251,NE,31,161,31161,5127,2.1,2469.74,Under investigation
 Lea County,New Mexico,2025-02-27,1,252,NM,35,025,35025,74455,16.9,4394.69,Texas Outbreak
@@ -256,38 +256,38 @@ Ontario County,New York,2025-02-27,1,254,NY,36,069,36069,112458,169.7,662.55,NA
 Orange County,New York,2025-02-27,1,255,NY,36,071,36071,401310,478.6,838.59,"Under Investigation, Unrelated to ongoing outbreaks"
 Grand Forks County,North Dakota,2025-02-27,3,256,ND,38,035,38035,73170,50.8,1439.42,Under Investigation
 Erie County,Pennsylvania,2025-02-27,1,257,PA,42,049,42049,270876,336.9,804,"Erie County Outbreak, Complete"
-Unknown County,Pennsylvania,2025-02-27,1,258,NA,NA,NA,NA,NA,NA,NA,Unknown
-Middle Tennessee,Tennessee,2025-02-27,2,259,TN,NA,NA,NA,NA,NA,NA,Tennessee Outbreak
+Unknown County,Pennsylvania,2025-02-27,1,258,PA,NA,NA,NA,NA,NA,NA,Unknown
+Middle Tennessee,Tennessee,2025-02-27,2,259,NA,NA,NA,NA,NA,NA,NA,NA
 Collin County,Texas,2025-02-27,1,260,TX,48,085,48085,1064465,1201.6,885.87,Texas Outbreak
 El Paso County,Texas,2025-02-27,1,261,TX,48,141,48141,865657,852.6,1015.29,Texas Outbreak
 Randall County,Texas,2025-02-27,1,262,TX,48,381,48381,140753,152.6,922.44,Texas Outbreak
 Randall County (Related to Outbreak),Texas,2025-02-27,1,263,NA,NA,NA,NA,NA,NA,NA,NA
 Tarrant County,Texas,2025-02-27,2,264,TX,48,439,48439,2110640,2335.3,903.81,No
 Arapahoe County,Colorado,2025-05-28,1,265,CO,08,005,08005,655070,813.2,805.5,Arapahoe County Outbreak; note: 3rd case is in an international visitor
-Unknown County/Counties (Related to Outbreaks),Kansas,2025-05-28,2,266,NA,NA,NA,NA,NA,NA,NA,Texas Outbreak
+Unknown County/Counties (Related to Outbreaks),Kansas,2025-05-28,2,266,KS,NA,NA,NA,NA,NA,NA,Texas Outbreak
 Marquette County,Michigan,2025-05-28,1,267,MI,26,103,26103,66017,35.3,1870.11,No
 Burke County,North Dakota,2025-05-28,1,268,ND,38,013,38013,2201,1.9,1129.01,NA
 Grand Forks County,North Dakota,2025-05-28,5,269,ND,38,035,38035,73170,50.8,1439.42,Under Investigation
-Unknown County,Pennsylvania,2025-05-28,2,270,NA,NA,NA,NA,NA,NA,NA,Unknown
+Unknown County,Pennsylvania,2025-05-28,2,270,PA,NA,NA,NA,NA,NA,NA,Unknown
 Santa Clara County,California,2025-05-29,1,271,CA,06,085,06085,1936259,1490.4,1299.18,No
-Franklin-Williamson Bi-County area,Illinois,2025-05-29,8,272,NA,NA,NA,NA,NA,NA,NA,Franklin-Williamson Bi-County area Outbreak
+Franklin-Williamson Bi-County area,Illinois,2025-05-29,8,272,IL,NA,NA,NA,NA,NA,NA,Franklin-Williamson Bi-County area Outbreak
 Ector County (Unlinked to Outbreak),Texas,2025-05-29,1,273,NA,NA,NA,NA,NA,NA,NA,No
 Gaines County,Texas,2025-05-29,1,274,TX,48,165,48165,21598,14.4,1502.85,Texas Outbreak
 Harrison County,Texas,2025-05-29,2,275,TX,48,203,48203,68839,75.2,915.75,No
 McLennan County,Texas,2025-05-29,7,276,TX,48,309,48309,260579,245.8,1060.24,Texas Outbreak
-Randall County (Unlinked to TX Outbreak),Texas,2025-05-29,2,277,NA,NA,NA,NA,NA,NA,NA,No
+Randall County (Unlinked to TX Outbreak),Texas,2025-05-29,2,277,NA,NA,NA,NA,NA,NA,NA,NA
 Reeves County,Texas,2025-05-29,2,278,TX,48,389,48389,14748,5.6,2642.07,Texas Outbreak
 Rockwall County (unrelated to TX Outbreak),Texas,2025-05-29,1,279,NA,NA,NA,NA,NA,NA,NA,NA
 Williamson County,Texas,2025-05-29,6,280,TX,48,491,48491,609017,538.1,1131.88,Under investigation
 Lea County,New Mexico,2025-06-01,1,281,NM,35,025,35025,74455,16.9,4394.69,Texas Outbreak
 San Juan County,New Mexico,2025-06-01,1,282,NM,35,045,35045,121661,22,5538.42,Under Investigation
-Collin County (Unlinked to TX Outbreak),Texas,2025-06-01,3,283,NA,NA,NA,NA,NA,NA,NA,No
+Collin County (Unlinked to TX Outbreak),Texas,2025-06-01,3,283,NA,NA,NA,NA,NA,NA,NA,NA
 Dawson County,Texas,2025-06-01,1,284,TX,48,115,48115,12456,13.8,902.13,Texas Outbreak
-El Paso (Unlinked to TX Outbreak),Texas,2025-06-01,2,285,NA,NA,NA,NA,NA,NA,NA,No
+El Paso (Unlinked to TX Outbreak),Texas,2025-06-01,2,285,NA,NA,NA,NA,NA,NA,NA,NA
 Gaines County,Texas,2025-06-01,2,286,TX,48,165,48165,21598,14.4,1502.85,Texas Outbreak
 Lamar County,Texas,2025-06-01,1,287,TX,48,277,48277,50088,53.7,933.1,Texas Outbreak
 Reeves County (Unlinked to TX Outbreak),Texas,2025-06-01,1,288,NA,NA,NA,NA,NA,NA,NA,No
-Rockwall County (Unlinked to TX Outbreak),Texas,2025-06-01,1,289,NA,NA,NA,NA,NA,NA,NA,No
+Rockwall County (Unlinked to TX Outbreak),Texas,2025-06-01,1,289,NA,NA,NA,NA,NA,NA,NA,NA
 Faulkner County,Arkansas,2025-06-02,1,290,AR,05,045,05045,123498,186,664.09,Unknown
 Arapahoe County,Colorado,2025-06-02,1,291,CO,08,005,08005,655070,813.2,805.5,Arapahoe County Outbreak; note: 3rd case is in an international visitor
 El Paso County,Colorado,2025-06-02,3,292,CO,08,041,08041,730395,343,2129.15,"Arapahoe County, CO Outbreak"
@@ -302,23 +302,23 @@ Yellowstone County,Montana,2025-06-02,2,300,MT,30,111,30111,164731,62.2,2648.89,
 Putnam County,New York,2025-06-02,1,301,NY,36,079,36079,97668,396.8,246.12,Unknown
 Grand Forks County,North Dakota,2025-06-02,2,302,ND,38,035,38035,73170,50.8,1439.42,Under Investigation
 Williams County,North Dakota,2025-06-02,3,303,ND,38,105,38105,40950,19.1,2147.81,North Dakota Outbreak
-Unknown County/Counties,Oklahoma,2025-06-02,18,304,NA,NA,NA,NA,NA,NA,NA,Texas Outbreak
+Unknown County/Counties,Oklahoma,2025-06-02,18,304,OK,NA,NA,NA,NA,NA,NA,Texas Outbreak
 Meade County,South Dakota,2025-06-02,1,305,SD,46,093,46093,29852,8.6,3482.8,No
-Unknown County,Alaska,2025-06-04,1,306,NA,NA,NA,NA,NA,NA,NA,Unknown
+Unknown County,Alaska,2025-06-04,1,306,AK,NA,NA,NA,NA,NA,NA,Unknown
 Faulkner County,Arkansas,2025-06-04,1,307,AR,05,045,05045,123498,186,664.09,Unknown
 Denver County,Colorado,2025-06-04,1,308,CO,08,031,08031,715522,4624.3,154.73,Texas Outbreak
-Unknown County,Kentucky,2025-06-04,1,309,NA,NA,NA,NA,NA,NA,NA,No
+Unknown County,Kentucky,2025-06-04,1,309,KY,NA,NA,NA,NA,NA,NA,No
 Gallatin County,Montana,2025-06-04,1,310,MT,30,031,30031,118960,45.2,2633.78,Montana Outbreak
-Unknown US State(s),Unknown State(s),2025-06-04,6,311,NA,NA,NA,NA,NA,NA,NA,Unknown
-Northwestern Region,Virginia,2025-06-04,1,312,NA,NA,NA,NA,NA,NA,NA,No
+Unknown US State(s),Unknown State(s),2025-06-04,6,311,NA,NA,NA,NA,NA,NA,NA,NA
+Northwestern Region,Virginia,2025-06-04,1,312,VA,NA,NA,NA,NA,NA,NA,No
 Unknown County,Arkansas,NA,1,313,NA,NA,NA,NA,NA,NA,NA,NA
-Fulton County,Georgia,NA,1,314,GA,13,121,13121,1066710,1996.5,534.29,No
+Fulton County,Georgia,NA,1,314,GA,13,121,13121,1066710,1996.5,534.29,Greater Atlanta Outbreak
 Haskell County,Kansas,NA,1,315,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
 Hill County,Montana,NA,1,316,MT,30,041,30041,16309,5.6,2916.47,Under investigation
-Unknown County/Counties,Oklahoma,NA,1,317,NA,NA,NA,NA,NA,NA,NA,Texas Outbreak
-Unknown County,South Dakota,NA,1,318,NA,NA,NA,NA,NA,NA,NA,Unknown
+Unknown County/Counties,Oklahoma,NA,1,317,OK,NA,NA,NA,NA,NA,NA,Texas Outbreak
+Unknown County,South Dakota,NA,1,318,SD,NA,NA,NA,NA,NA,NA,Unknown
 Navajo County,Arizona,NA,4,319,AZ,04,017,04017,106717,10.7,9958.69,"Navajo County, AZ Outbreak"
-Los Angeles County,California,NA,1,320,CA,06,037,06037,10014009,2451.4,4085.07,NA
+Los Angeles County,California,NA,1,320,CA,06,037,06037,10014009,2451.4,4085.07,Texas Outbreak
 Yolo County,California,NA,1,321,CA,06,113,06113,216403,211.4,1023.57,Unknown
 Arapahoe County,Colorado,NA,1,322,CO,08,005,08005,655070,813.2,805.5,Arapahoe County Outbreak; note: 3rd case is in an international visitor
 El Paso County,Colorado,NA,1,323,CO,08,041,08041,730395,343,2129.15,"Arapahoe County, CO Outbreak"
@@ -328,34 +328,58 @@ Ector County,Texas,NA,1,326,TX,48,135,48135,165171,183.2,901.82,Texas Outbreak
 El Paso County,Texas,NA,1,327,TX,48,141,48141,865657,852.6,1015.29,Texas Outbreak
 Navajo County,Arizona,2025-06-11,4,328,AZ,04,017,04017,106717,10.7,9958.69,"Navajo County, AZ Outbreak"
 Unknown County,Arkansas,2025-06-11,1,329,NA,NA,NA,NA,NA,NA,NA,NA
-Los Angeles County,California,2025-06-11,1,330,CA,06,037,06037,10014009,2451.4,4085.07,NA
+Los Angeles County,California,2025-06-11,1,330,CA,06,037,06037,10014009,2451.4,4085.07,Texas Outbreak
 Yolo County,California,2025-06-11,1,331,CA,06,113,06113,216403,211.4,1023.57,Unknown
 Arapahoe County,Colorado,2025-06-11,1,332,CO,08,005,08005,655070,813.2,805.5,Arapahoe County Outbreak; note: 3rd case is in an international visitor
 El Paso County,Colorado,2025-06-11,1,333,CO,08,041,08041,730395,343,2129.15,"Arapahoe County, CO Outbreak"
-Fulton County,Georgia,2025-06-11,1,334,GA,13,121,13121,1066710,1996.5,534.29,No
+Fulton County,Georgia,2025-06-11,1,334,GA,13,121,13121,1066710,1996.5,534.29,Greater Atlanta Outbreak
 Haskell County,Kansas,2025-06-11,1,335,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
 Allegan County,Michigan,2025-06-11,1,336,MI,26,005,26005,120502,143.1,841.83,NA
 Gallatin County,Montana,2025-06-11,1,337,MT,30,031,30031,118960,45.2,2633.78,Montana Outbreak
 Hill County,Montana,2025-06-11,1,338,MT,30,041,30041,16309,5.6,2916.47,Under investigation
-Unknown County/Counties,Oklahoma,2025-06-11,1,339,NA,NA,NA,NA,NA,NA,NA,Texas Outbreak
-Unknown County,South Dakota,2025-06-11,1,340,NA,NA,NA,NA,NA,NA,NA,Unknown
+Unknown County/Counties,Oklahoma,2025-06-11,1,339,OK,NA,NA,NA,NA,NA,NA,Texas Outbreak
+Unknown County,South Dakota,2025-06-11,1,340,SD,NA,NA,NA,NA,NA,NA,Unknown
 Ector County,Texas,2025-06-11,1,341,TX,48,135,48135,165171,183.2,901.82,Texas Outbreak
 El Paso County,Texas,2025-06-11,1,342,TX,48,141,48141,865657,852.6,1015.29,Texas Outbreak
-Eastern Iowa,Iowa,NA,1,343,NA,NA,NA,NA,NA,NA,NA,Unknown
+Eastern Iowa,Iowa,NA,1,343,IA,NA,NA,NA,NA,NA,NA,Unknown
 Johnson County,Iowa,NA,1,344,IA,19,103,19103,152854,245.3,623.06,No
 Gray County,Kansas,NA,1,345,KS,20,069,20069,5653,6.5,869.3,Texas Outbreak
 Haskell County,Kansas,NA,3,346,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
-Unknown County,Minnesota,NA,1,347,NA,NA,NA,NA,NA,NA,NA,Unknown
-Eastern Iowa,Iowa,2025-06-13,1,348,NA,NA,NA,NA,NA,NA,NA,Unknown
+Unknown County,Minnesota,NA,1,347,MN,NA,NA,NA,NA,NA,NA,Unknown
+Eastern Iowa,Iowa,2025-06-13,1,348,IA,NA,NA,NA,NA,NA,NA,Unknown
 Johnson County,Iowa,2025-06-13,1,349,IA,19,103,19103,152854,245.3,623.06,No
 Gray County,Kansas,2025-06-13,1,350,KS,20,069,20069,5653,6.5,869.3,Texas Outbreak
 Haskell County,Kansas,2025-06-13,3,351,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
-Unknown County,Minnesota,2025-06-13,1,352,NA,NA,NA,NA,NA,NA,NA,Unknown
+Unknown County,Minnesota,2025-06-13,1,352,MN,NA,NA,NA,NA,NA,NA,Unknown
 Boulder County,Colorado,NA,1,353,CO,08,013,08013,330758,446.7,740.47,No
 Leon County,Florida,NA,1,354,FL,12,073,12073,292198,416.4,701.79,"Unknown, acquired domestically"
 Macomb County,Michigan,NA,1,355,MI,26,099,26099,881217,1822.1,483.64,"No for first case, second case unknown"
 Franklin County,Ohio,NA,1,356,OH,39,049,39049,1323807,2435.1,543.63,Unknown
-Unknown County/Counties,Oklahoma,NA,1,357,NA,NA,NA,NA,NA,NA,NA,Texas Outbreak
-Unknown US State(s),Unknown State(s),NA,5,358,NA,NA,NA,NA,NA,NA,NA,Unknown
+Unknown County/Counties,Oklahoma,NA,1,357,OK,NA,NA,NA,NA,NA,NA,Texas Outbreak
+Unknown US State(s),Unknown State(s),NA,5,358,NA,NA,NA,NA,NA,NA,NA,NA
 District of Columbia,District of Columbia,2025-06-16,1,359,DC,11,001,11001,689545,11179.4,61.68,NA
 Gallatin County,Montana,2025-06-16,1,360,MT,30,031,30031,118960,45.2,2633.78,Montana Outbreak
+Benton County,Arkansas,NA,1,361,AR,05,007,05007,284333,321.5,884.33,Unknown
+Sacramento County,California,NA,1,362,CA,06,067,06067,1585055,1615.9,980.93,No
+Haskell County,Kansas,NA,1,363,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
+Unknown County/Counties (unlinked to outbreaks),Kansas,NA,1,364,NA,NA,NA,NA,NA,NA,NA,NA
+Gallatin County,Montana,NA,1,365,MT,30,031,30031,118960,45.2,2633.78,Montana Outbreak
+Bell County,Texas,NA,1,366,TX,48,027,48027,370647,340,1090.28,No
+Gaines County,Texas,NA,2,367,TX,48,165,48165,21598,14.4,1502.85,Texas Outbreak
+Lamar County,Texas,NA,2,368,TX,48,277,48277,50088,53.7,933.1,Texas Outbreak
+McLennan County,Texas,NA,1,369,TX,48,309,48309,260579,245.8,1060.24,Texas Outbreak
+Midland County,Texas,NA,1,370,TX,48,329,48329,169983,188.5,902,Texas Outbreak
+Reeves County,Texas,NA,1,371,TX,48,389,48389,14748,5.6,2642.07,Texas Outbreak
+Los Angeles County,California,NA,1,372,CA,06,037,06037,10014009,2451.4,4085.07,Texas Outbreak
+Fulton County,Georgia,NA,1,373,GA,13,121,13121,1066710,1996.5,534.29,Greater Atlanta Outbreak
+Haskell County,Kansas,NA,1,374,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
+Unknown County/Counties (Related to Outbreaks),Kansas,NA,1,375,KS,NA,NA,NA,NA,NA,NA,Texas Outbreak
+Mid-Cumberland Region,Tennessee,NA,2,376,TN,NA,NA,NA,NA,NA,NA,Unknown
+Upper Cumberland Region,Tennessee,NA,4,377,TN,NA,NA,NA,NA,NA,NA,Tennessee Outbreak
+Collin County,Texas,NA,3,378,TX,48,085,48085,1064465,1201.6,885.87,Texas Outbreak
+El Paso County,Texas,NA,2,379,TX,48,141,48141,865657,852.6,1015.29,Texas Outbreak
+Randall County,Texas,NA,2,380,TX,48,381,48381,140753,152.6,922.44,Texas Outbreak
+Rockwall County,Texas,NA,1,381,TX,48,397,48397,107819,724,148.93,Texas Outbreak
+Arapahoe County,Colorado,2025-06-20,1,382,CO,08,005,08005,655070,813.2,805.5,Arapahoe County Outbreak; note: 3rd case is in an international visitor
+Gallatin County,Montana,2025-06-20,2,383,MT,30,031,30031,118960,45.2,2633.78,Montana Outbreak
+Unknown US State(s),Unknown State(s),2025-06-20,9,384,NA,NA,NA,NA,NA,NA,NA,NA
