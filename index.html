@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>US Measles Data Yearly Comparison</title>
+  <style>
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ccc; padding: 6px; text-align: center; }
+    th { background: #eee; }
+  </style>
+</head>
+<body>
+  <h1>US Measles Data: Yearly Comparison</h1>
+  <table id="data-table">
+    <thead>
+      <tr>
+        <th>State</th>
+        <th>2024 Cases</th>
+        <th>2025 Cases</th>
+        <th>Percent Change</th>
+        <th>Change Indicator</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+  <script>
+    fetch('YearlyComparison.json')
+      .then(response => response.json())
+      .then(data => {
+        const tbody = document.querySelector('#data-table tbody');
+        data.forEach(row => {
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td>${row.State}</td>
+            <td>${row["2024 Cases"]}</td>
+            <td>${row["2025 Cases"]}</td>
+            <td>${row["Percent Change"] !== undefined ? row["Percent Change"] : ''}</td>
+            <td>${row["Change Indicator"]}</td>
+          `;
+          tbody.appendChild(tr);
+        });
+      });
+  </script>
+</body>
+</html>
