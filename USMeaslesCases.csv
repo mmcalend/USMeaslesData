@@ -216,10 +216,10 @@ Yoakum County,Texas,2025-04-30,18,214,TX,48,501,48501,7694,9.6,799.72,Texas Outb
 Rockwall County (Related to TX Outbreak),Texas,2025-05-21,1,215,NA,NA,NA,NA,NA,NA,NA,NA
 Collin County,Texas,2025-05-21,1,216,TX,48,085,48085,1064465,1201.6,885.87,Texas Outbreak
 Lamoille County,Vermont,2025-03-09,1,217,VT,50,015,50015,25945,55.5,467.16,No
-King County,Washington,2025-02-25,1,218,WA,53,033,53033,2269675,1053.9,2153.65,No
-King County,Washington,2025-04-12,1,219,WA,53,033,53033,2269675,1053.9,2153.65,No
-King County,Washington,2025-04-20,1,220,WA,53,033,53033,2269675,1053.9,2153.65,No
-King County,Washington,2025-05-21,1,221,WA,53,033,53033,2269675,1053.9,2153.65,No
+King County,Washington,2025-02-25,1,218,WA,53,033,53033,2269675,1053.9,2153.65,Possible Outbreak (6/25/25 cases related to an international visitor) - pending verification
+King County,Washington,2025-04-12,1,219,WA,53,033,53033,2269675,1053.9,2153.65,Possible Outbreak (6/25/25 cases related to an international visitor) - pending verification
+King County,Washington,2025-04-20,1,220,WA,53,033,53033,2269675,1053.9,2153.65,Possible Outbreak (6/25/25 cases related to an international visitor) - pending verification
+King County,Washington,2025-05-21,1,221,WA,53,033,53033,2269675,1053.9,2153.65,Possible Outbreak (6/25/25 cases related to an international visitor) - pending verification
 Snohomish County,Washington,2025-02-19,1,222,WA,53,061,53061,827957,393.3,2104.92,No
 Snohomish County,Washington,2025-03-31,1,223,WA,53,061,53061,827957,393.3,2104.92,No
 Middle Tennessee,Tennessee,2025-03-19,1,224,NA,NA,NA,NA,NA,NA,NA,NA
@@ -392,3 +392,18 @@ Unknown County,Pennsylvania,NA,2,390,PA,NA,NA,NA,NA,NA,NA,Unknown
 Unknown County,South Dakota,NA,2,391,SD,NA,NA,NA,NA,NA,NA,Unknown
 Unknown US State(s),Unknown State(s),NA,1,392,NA,NA,NA,NA,NA,NA,NA,NA
 Utah County,Utah,NA,1,393,UT,49,049,49049,659399,307.5,2144.22,Unknown
+Unknown County/Counties (Related to Outbreaks),Kansas,NA,1,394,KS,NA,NA,NA,NA,NA,NA,Texas Outbreak
+Gallatin County,Montana,NA,1,395,MT,30,031,30031,118960,45.2,2633.78,Montana Outbreak
+Unknown County,California,NA,1,396,NA,NA,NA,NA,NA,NA,NA,NA
+Grand Traverse County,Michigan,NA,3,397,MI,26,055,26055,95238,194.3,490.28,"Grand Traverse, MI Outbreak"
+Forsyth County,North Carolina,NA,1,398,NC,37,067,37067,382590,927.8,412.35,NA
+Multnomah County,Oregon,NA,1,399,OR,41,051,41051,815428,1856.5,439.24,No
+Dallas County,Texas,NA,1,400,TX,48,113,48113,2613539,2876.6,908.54,No
+Fannin County,Texas,NA,1,401,TX,48,147,48147,35662,39.7,898.88,No
+Southwest Health District,Utah,NA,1,402,NA,NA,NA,NA,NA,NA,NA,Unknown
+Utah County,Utah,NA,1,403,UT,49,049,49049,659399,307.5,2144.22,Unknown
+King County,Washington,NA,2,404,WA,53,033,53033,2269675,1053.9,2153.65,Possible Outbreak (6/25/25 cases related to an international visitor) - pending verification
+Whatcom County,Washington,NA,2,405,WA,53,073,53073,226847,104.8,2164.09,Unknown
+Muskegon County,Michigan,NA,1,406,MI,26,121,26121,175824,341,515.66,NA
+Luna County,New Mexico,NA,5,407,NM,35,029,35029,25427,8.6,2965.34,"Luna County, NM Outbreak (pending verification)"
+Unknown County,Utah,NA,2,408,NA,NA,NA,NA,NA,NA,NA,Unknown

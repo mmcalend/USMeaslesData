@@ -27,8 +27,8 @@
   {
     "State": "California",
     "2024 Cases": 15,
-    "2025 Cases": 16,
-    "Percent Change": 6.6667,
+    "2025 Cases": 17,
+    "Percent Change": 13.3333,
     "Change Indicator": "▲"
   },
   {
@@ -99,7 +99,7 @@
   {
     "State": "Kansas",
     "2024 Cases": 0,
-    "2025 Cases": 79,
+    "2025 Cases": 80,
     "Change Indicator": "▲"
   },
   {
@@ -138,8 +138,8 @@
   {
     "State": "Michigan",
     "2024 Cases": 6,
-    "2025 Cases": 12,
-    "Percent Change": 100,
+    "2025 Cases": 16,
+    "Percent Change": 166.6667,
     "Change Indicator": "▲"
   },
   {
@@ -165,7 +165,7 @@
   {
     "State": "Montana",
     "2024 Cases": 0,
-    "2025 Cases": 22,
+    "2025 Cases": 23,
     "Change Indicator": "▲"
   },
   {
@@ -197,8 +197,8 @@
   {
     "State": "New Mexico",
     "2024 Cases": 2,
-    "2025 Cases": 81,
-    "Percent Change": 3950,
+    "2025 Cases": 86,
+    "Percent Change": 4200,
     "Change Indicator": "▲"
   },
   {
@@ -211,9 +211,9 @@
   {
     "State": "North Carolina",
     "2024 Cases": 1,
-    "2025 Cases": 0,
-    "Percent Change": -100,
-    "Change Indicator": "▼"
+    "2025 Cases": 1,
+    "Percent Change": 0,
+    "Change Indicator": "➝"
   },
   {
     "State": "North Dakota",
@@ -238,8 +238,8 @@
   {
     "State": "Oregon",
     "2024 Cases": 31,
-    "2025 Cases": 0,
-    "Percent Change": -100,
+    "2025 Cases": 1,
+    "Percent Change": -96.7742,
     "Change Indicator": "▼"
   },
   {
@@ -279,14 +279,14 @@
   {
     "State": "Texas",
     "2024 Cases": 1,
-    "2025 Cases": 782,
-    "Percent Change": 78100,
+    "2025 Cases": 784,
+    "Percent Change": 78300,
     "Change Indicator": "▲"
   },
   {
     "State": "Utah",
     "2024 Cases": 0,
-    "2025 Cases": 1,
+    "2025 Cases": 5,
     "Change Indicator": "▲"
   },
   {
@@ -306,9 +306,9 @@
   {
     "State": "Washington",
     "2024 Cases": 6,
-    "2025 Cases": 6,
-    "Percent Change": 0,
-    "Change Indicator": "➝"
+    "2025 Cases": 10,
+    "Percent Change": 66.6667,
+    "Change Indicator": "▲"
   },
   {
     "State": "West Virginia",
