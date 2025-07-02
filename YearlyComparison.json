@@ -21,7 +21,7 @@
   {
     "State": "Arkansas",
     "2024 Cases": 0,
-    "2025 Cases": 8,
+    "2025 Cases": 9,
     "Change Indicator": "▲"
   },
   {
@@ -99,13 +99,13 @@
   {
     "State": "Kansas",
     "2024 Cases": 0,
-    "2025 Cases": 80,
+    "2025 Cases": 83,
     "Change Indicator": "▲"
   },
   {
     "State": "Kentucky",
     "2024 Cases": 0,
-    "2025 Cases": 2,
+    "2025 Cases": 7,
     "Change Indicator": "▲"
   },
   {
@@ -138,8 +138,8 @@
   {
     "State": "Michigan",
     "2024 Cases": 6,
-    "2025 Cases": 16,
-    "Percent Change": 166.6667,
+    "2025 Cases": 17,
+    "Percent Change": 183.3333,
     "Change Indicator": "▲"
   },
   {
@@ -165,7 +165,7 @@
   {
     "State": "Montana",
     "2024 Cases": 0,
-    "2025 Cases": 23,
+    "2025 Cases": 24,
     "Change Indicator": "▲"
   },
   {
@@ -197,8 +197,8 @@
   {
     "State": "New Mexico",
     "2024 Cases": 2,
-    "2025 Cases": 86,
-    "Percent Change": 4200,
+    "2025 Cases": 94,
+    "Percent Change": 4600,
     "Change Indicator": "▲"
   },
   {
@@ -279,8 +279,8 @@
   {
     "State": "Texas",
     "2024 Cases": 1,
-    "2025 Cases": 784,
-    "Percent Change": 78300,
+    "2025 Cases": 790,
+    "Percent Change": 78900,
     "Change Indicator": "▲"
   },
   {
@@ -327,7 +327,7 @@
   {
     "State": "Wyoming",
     "2024 Cases": 0,
-    "2025 Cases": 0,
-    "Change Indicator": "➝"
+    "2025 Cases": 1,
+    "Change Indicator": "▲"
   }
 ]

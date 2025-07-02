@@ -56,7 +56,7 @@ Gray County,Kansas,2025-06-13,1,54,KS,20,069,20069,5653,6.5,869.3,Texas Outbreak
 Haskell County,Kansas,2025-06-13,3,55,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
 Unknown County,Minnesota,2025-06-13,1,56,MN,NA,NA,NA,NA,NA,NA,Unknown
 Navajo County,Arizona,2025-06-11,4,57,AZ,04,017,04017,106717,10.7,9958.69,"Navajo County, AZ Outbreak"
-Unknown County,Arkansas,2025-06-11,1,58,NA,NA,NA,NA,NA,NA,NA,NA
+Unknown County,Arkansas,2025-06-11,1,58,NA,NA,NA,NA,NA,NA,NA,Unknown
 Los Angeles County,California,2025-06-11,1,59,CA,06,037,06037,10014009,2451.4,4085.07,Texas Outbreak
 Yolo County,California,2025-06-11,1,60,CA,06,113,06113,216403,211.4,1023.57,Unknown
 Arapahoe County,Colorado,2025-06-11,1,61,CO,08,005,08005,655070,813.2,805.5,Arapahoe County Outbreak; note: 3rd case is in an international visitor
@@ -70,7 +70,7 @@ Unknown County/Counties,Oklahoma,2025-06-11,1,68,OK,NA,NA,NA,NA,NA,NA,Texas Outb
 Unknown County,South Dakota,2025-06-11,1,69,SD,NA,NA,NA,NA,NA,NA,Unknown
 Ector County,Texas,2025-06-11,1,70,TX,48,135,48135,165171,183.2,901.82,Texas Outbreak
 El Paso County,Texas,2025-06-11,1,71,TX,48,141,48141,865657,852.6,1015.29,Texas Outbreak
-Unknown County,Arkansas,2025-06-10,1,72,NA,NA,NA,NA,NA,NA,NA,NA
+Unknown County,Arkansas,2025-06-10,1,72,NA,NA,NA,NA,NA,NA,NA,Unknown
 Fulton County,Georgia,2025-06-10,1,73,GA,13,121,13121,1066710,1996.5,534.29,Greater Atlanta Outbreak
 Haskell County,Kansas,2025-06-10,1,74,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
 Hill County,Montana,2025-06-10,1,75,MT,30,041,30041,16309,5.6,2916.47,Under investigation
@@ -399,3 +399,18 @@ Providence County,Rhode Island,2025-01-16,1,397,RI,44,007,44007,660741,1537.3,42
 Harris County,Texas,2025-01-15,2,398,TX,48,201,48201,4731145,2705.5,1748.72,No
 Southwest Health District,Utah,2025-06-30,2,399,NA,NA,NA,NA,NA,NA,NA,Unknown
 Unknown County,Utah,2025-06-30,4,400,NA,NA,NA,NA,NA,NA,NA,Unknown
+Todd County,Kentucky,2025-06-30,1,401,KY,21,219,21219,12243,32.5,377.06,No
+Woodford County,Kentucky,2025-06-30,3,402,KY,21,239,21239,26871,139.9,192.02,"Woodford County, KY Outbreak"
+Gallatin County,Montana,2025-07-01,1,403,MT,30,031,30031,118960,45.2,2633.78,Montana Outbreak
+Luna County,New Mexico,2025-07-01,8,404,NM,35,029,35029,25427,8.6,2965.34,"Luna County, NM Outbreak (pending verification)"
+Bexar County,Texas,2025-07-01,1,405,TX,48,029,48029,2009324,1599.7,1256.07,Texas Outbreak
+El Paso County,Texas,2025-07-01,1,406,TX,48,141,48141,865657,852.6,1015.29,Texas Outbreak
+Gaines County,Texas,2025-07-01,1,407,TX,48,165,48165,21598,14.4,1502.85,Texas Outbreak
+Lamar County,Texas,2025-07-01,3,408,TX,48,277,48277,50088,53.7,933.1,Texas Outbreak
+Unknown County,Arkansas,2025-07-02,1,409,NA,NA,NA,NA,NA,NA,NA,Unknown
+Gray County,Kansas,2025-07-02,2,410,KS,20,069,20069,5653,6.5,869.3,Texas Outbreak
+Haskell County,Kansas,2025-07-02,1,411,KS,20,081,20081,3780,6.5,577.88,Texas Outbreak
+Fayette County,Kentucky,2025-07-02,1,412,KY,21,067,21067,322570,1129.7,285.54,"Woodford County, KY Outbreak"
+Kent County,Michigan,2025-07-02,1,413,MI,26,081,26081,657974,754.6,871.94,No
+Unknown County,Utah,2025-07-02,2,414,NA,NA,NA,NA,NA,NA,NA,Unknown
+Natrona County,Wyoming,2025-07-02,1,415,WY,56,025,56025,79955,14.9,5375.66,Unknown
