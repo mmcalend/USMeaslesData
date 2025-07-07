@@ -3,7 +3,6 @@ library(dplyr)
 library(stringr)
 library(tidyr)
 library(jsonlite)
-library(bigrquery)
 
 # --- Load JHU Measles Data ---
 url <- "https://raw.githubusercontent.com/CSSEGISandData/measles_data/main/measles_county_all_updates.csv"
@@ -79,12 +78,3 @@ write_json(YearlyComparison_json, "YearlyComparison.json", pretty = TRUE, auto_u
 # --- Write outputs ---
 write_json(YearlyComparison, "measles_state_comparison.json", pretty = TRUE, auto_unbox = TRUE)
 write_csv(measles_data, "USMeaslesCases.csv")
-
-# --- Upload to BigQuery ---
-bq_auth(path = "service-account.json")
-bq_table_upload(
-  x = bq_table("ho-measles-459023.measles_risk_assessment.USMeaslesCases"),  # <-- Replace with your actual GCP values
-  values = "USMeaslesCases.csv",
-  source_format = "CSV",
-  write_disposition = "WRITE_TRUNCATE"
-)
