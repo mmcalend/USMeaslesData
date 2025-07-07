@@ -26,6 +26,7 @@ states_2024_df <- read.table(
   text = states_2024, sep = "\t", header = FALSE,
   col.names = c("State", "2024 Cases"), stringsAsFactors = FALSE
 )
+names(states_2024_df)[2] <- "2024 Cases"
 
 # --- Summarize 2025 data ---
 state_summary <- measles_data %>%
