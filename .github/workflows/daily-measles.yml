@@ -1,0 +1,42 @@
+name: Daily Measles Pipeline
+
+on:
+  schedule:
+    - cron: "0 10 * * *"  # Daily at 10:00 UTC
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    env:
+      GCP_AUTH_FILE: ${{ secrets.GCP_AUTH_FILE }}
+      GH_PAT: ${{ secrets.GH_PAT }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install required R packages
+        run: |
+          Rscript -e 'install.packages(c("readr", "dplyr", "stringr", "tidyr", "jsonlite", "bigrquery"))'
+
+      - name: Restore GCP auth file from secret
+        run: echo "$GCP_AUTH_FILE" > service-account.json
+
+      - name: Run measles pipeline script
+        run: Rscript daily_measles.R
+
+      - name: Push JSON to output repo
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/yourname/output-repo.git
+          cp YearlyComparison.json output-repo/
+          cd output-repo
+          git add measles_state_comparison.json
+          git commit -m "Daily update: $(date -u +'%Y-%m-%d')"
+          git push
