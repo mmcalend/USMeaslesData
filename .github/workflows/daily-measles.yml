@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      GCP_AUTH_FILE: ${{ secrets.GCP_AUTH_FILE }}
       GH_PAT: ${{ secrets.GH_PAT }}
 
     steps:
@@ -28,21 +27,20 @@ jobs:
 
       - name: Install required R packages
         run: |
-          Rscript -e 'install.packages(c("readr", "dplyr", "stringr", "tidyr", "jsonlite", "bigrquery"))'
-
-      - name: Restore GCP auth file from secret
-        run: echo "$GCP_AUTH_FILE" > service-account.json
+          Rscript -e 'install.packages(c("readr", "dplyr", "stringr", "tidyr", "jsonlite"))'
 
       - name: Run measles pipeline script
         run: Rscript daily_measles.R
 
-      - name: Push JSON to output repo
+      - name: Push JSON and CSV to output repo
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/yourname/output-repo.git
-          cp YearlyComparison.json output-repo/
+          cp measles_state_comparison.json output-repo/
+          cp USMeaslesCases.csv output-repo/
           cd output-repo
-          git add measles_state_comparison.json
+          git add measles_state_comparison.json measles_state_comparison.csv
           git commit -m "Daily update: $(date -u +'%Y-%m-%d')"
           git push
+
