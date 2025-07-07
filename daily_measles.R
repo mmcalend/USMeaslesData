@@ -76,5 +76,5 @@ YearlyComparison_json <- YearlyComparison %>%
 write_json(YearlyComparison_json, "YearlyComparison.json", pretty = TRUE, auto_unbox = TRUE)
 
 # --- Write outputs ---
-write_json(YearlyComparison, "measles_state_comparison.json", pretty = TRUE, auto_unbox = TRUE)
+write_json(YearlyComparison, "YearlyComparison.json", pretty = TRUE, auto_unbox = TRUE)
 write_csv(measles_data, "USMeaslesCases.csv")
