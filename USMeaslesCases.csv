@@ -44,6 +44,9 @@ CASS,NORTH DAKOTA,38017,2025-05-12,case_lab-confirmed,1
 CASS,NORTH DAKOTA,38017,2025-05-14,case_lab-confirmed,1
 CASS,NORTH DAKOTA,38017,2025-05-15,case_lab-confirmed,1
 CASS,NORTH DAKOTA,38017,2025-05-17,case_lab-confirmed,1
+CEDAR,MISSOURI,29039,2025-06-23,case_lab-confirmed,1
+CEDAR,MISSOURI,29039,2025-07-01,case_lab-confirmed,1
+CEDAR,MISSOURI,29039,2025-07-03,case_lab-confirmed,3
 CENTRAL,IOWA,19,2025-05-23,case_lab-confirmed,1
 CHAVES,NEW MEXICO,35005,2025-04-08,case_lab-confirmed,1
 COCHRAN,TEXAS,48079,2025-03-18,case_lab-confirmed,7
@@ -249,8 +252,7 @@ KNOX,OHIO,39083,2025-03-31,case_lab-confirmed,6
 KNOX,OHIO,39083,2025-04-02,case_lab-confirmed,1
 KNOX,OHIO,39083,2025-04-06,case_lab-confirmed,1
 KNOX,OHIO,39083,2025-04-09,case_lab-confirmed,6
-LAMAR,TEXAS,48277,2025-03-18,case_lab-confirmed,5
-LAMAR,TEXAS,48277,2025-03-20,case_lab-confirmed,5
+LAMAR,TEXAS,48277,2025-03-20,case_lab-confirmed,10
 LAMAR,TEXAS,48277,2025-04-04,case_lab-confirmed,1
 LAMAR,TEXAS,48277,2025-04-25,case_lab-confirmed,3
 LAMAR,TEXAS,48277,2025-04-29,case_lab-confirmed,3
@@ -258,8 +260,9 @@ LAMAR,TEXAS,48277,2025-05-06,case_lab-confirmed,1
 LAMAR,TEXAS,48277,2025-05-09,case_lab-confirmed,1
 LAMAR,TEXAS,48277,2025-05-23,case_lab-confirmed,1
 LAMAR,TEXAS,48277,2025-06-03,case_lab-confirmed,1
-LAMAR,TEXAS,48277,2025-06-17,case_lab-confirmed,20
+LAMAR,TEXAS,48277,2025-06-17,case_lab-confirmed,18
 LAMAR,TEXAS,48277,2025-07-01,case_lab-confirmed,3
+LAMAR,TEXAS,48277,2025-07-08,case_lab-confirmed,2
 LAMB,TEXAS,48279,2025-03-20,case_lab-confirmed,1
 LAMOILLE,VERMONT,50015,2025-03-11,case_lab-confirmed,1
 LANCASTER,PENNSYLVANIA,42071,2025-04-15,case_lab-confirmed,1
@@ -413,7 +416,6 @@ UNKNOWN COUNTY,KANSAS,20,2025-04-16,case_lab-confirmed,3
 UNKNOWN COUNTY,KANSAS,20,2025-06-16,case_lab-confirmed,2
 UNKNOWN COUNTY,KENTUCKY,21,2025-06-30,case_lab-confirmed,1
 UNKNOWN COUNTY,MINNESOTA,27,2025-06-11,case_lab-confirmed,1
-UNKNOWN COUNTY,MISSOURI,29,2025-07-03,case_lab-confirmed,5
 UNKNOWN COUNTY,NEW JERSEY,34,2025-07-03,case_lab-confirmed,1
 UNKNOWN COUNTY,OKLAHOMA,40109,2025-03-25,case_lab-confirmed,7
 UNKNOWN COUNTY,OKLAHOMA,40109,2025-04-02,case_lab-confirmed,1
