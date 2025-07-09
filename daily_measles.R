@@ -51,7 +51,7 @@ YearlyComparison <- left_join(states_2024_df, state_summary, by = "State") %>%
   )
 
 # --- Format for JSON: remove "Percent Change" when 2024 Cases == 0 ---
-YearlyComparison_json <- YearlyComparison %>%
+YearlyComparison <- YearlyComparison %>%
   mutate(
     include_percent = !is.na(`Percent Change`)
   ) %>%
@@ -71,9 +71,6 @@ YearlyComparison_json <- YearlyComparison %>%
     })
   ) %>%
   pull(json_obj)
-
-# --- Write to JSON (pretty format) ---
-write_json(YearlyComparison_json, "YearlyComparison.json", pretty = TRUE, auto_unbox = TRUE)
 
 # --- Write outputs ---
 write_json(YearlyComparison, "YearlyComparison.json", pretty = TRUE, auto_unbox = TRUE)
