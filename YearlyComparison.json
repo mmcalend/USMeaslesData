@@ -93,9 +93,9 @@
   {
     "State": "Indiana",
     "2024 Cases": 1,
-    "2025 Cases": 8,
+    "2025 Cases": 9,
     "Change Indicator": "▲",
-    "Percent Change": 700
+    "Percent Change": 800
   },
   {
     "State": "Iowa",
@@ -106,7 +106,7 @@
   {
     "State": "Kansas",
     "2024 Cases": 0,
-    "2025 Cases": 86,
+    "2025 Cases": 87,
     "Change Indicator": "▲"
   },
   {
@@ -279,9 +279,9 @@
   {
     "State": "South Dakota",
     "2024 Cases": 1,
-    "2025 Cases": 4,
+    "2025 Cases": 12,
     "Change Indicator": "▲",
-    "Percent Change": 300
+    "Percent Change": 1100
   },
   {
     "State": "Tennessee",
