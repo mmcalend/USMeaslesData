@@ -137,6 +137,7 @@ FAULKNER,ARKANSAS,5045,2025-05-20,case_lab-confirmed,1
 FAULKNER,ARKANSAS,5045,2025-05-27,case_lab-confirmed,1
 FAYETTE,KENTUCKY,21067,2025-06-30,case_lab-confirmed,1
 FAYETTE,KENTUCKY,21067,2025-07-07,case_lab-confirmed,4
+FAYETTE,KENTUCKY,21067,2025-07-10,case_lab-confirmed,1
 FLATHEAD,MONTANA,30029,2025-05-21,case_lab-confirmed,1
 FLATHEAD,MONTANA,30029,2025-05-29,case_lab-confirmed,1
 FORT BEND,TEXAS,48157,2025-04-02,case_lab-confirmed,1
@@ -182,9 +183,10 @@ GALLATIN,MONTANA,30031,2025-04-29,case_lab-confirmed,2
 GALLATIN,MONTANA,30031,2025-05-05,case_lab-confirmed,1
 GALLATIN,MONTANA,30031,2025-05-23,case_lab-confirmed,1
 GALLATIN,MONTANA,30031,2025-05-28,case_lab-confirmed,1
-GALLATIN,MONTANA,30031,2025-06-01,case_lab-confirmed,3
+GALLATIN,MONTANA,30031,2025-06-05,case_lab-confirmed,1
 GALLATIN,MONTANA,30031,2025-06-09,case_lab-confirmed,1
-GALLATIN,MONTANA,30031,2025-06-15,case_lab-confirmed,4
+GALLATIN,MONTANA,30031,2025-06-10,case_lab-confirmed,1
+GALLATIN,MONTANA,30031,2025-06-15,case_lab-confirmed,3
 GALLATIN,MONTANA,30031,2025-06-22,case_lab-confirmed,1
 GARZA,TEXAS,48169,2025-03-20,case_lab-confirmed,1
 GARZA,TEXAS,48169,2025-04-02,case_lab-confirmed,1
@@ -253,7 +255,8 @@ KNOX,OHIO,39083,2025-03-31,case_lab-confirmed,6
 KNOX,OHIO,39083,2025-04-02,case_lab-confirmed,1
 KNOX,OHIO,39083,2025-04-06,case_lab-confirmed,1
 KNOX,OHIO,39083,2025-04-09,case_lab-confirmed,6
-LAMAR,TEXAS,48277,2025-03-20,case_lab-confirmed,10
+LAMAR,TEXAS,48277,2025-03-15,case_lab-confirmed,5
+LAMAR,TEXAS,48277,2025-03-20,case_lab-confirmed,5
 LAMAR,TEXAS,48277,2025-04-04,case_lab-confirmed,1
 LAMAR,TEXAS,48277,2025-04-25,case_lab-confirmed,3
 LAMAR,TEXAS,48277,2025-04-29,case_lab-confirmed,3
@@ -261,7 +264,7 @@ LAMAR,TEXAS,48277,2025-05-06,case_lab-confirmed,1
 LAMAR,TEXAS,48277,2025-05-09,case_lab-confirmed,1
 LAMAR,TEXAS,48277,2025-05-23,case_lab-confirmed,1
 LAMAR,TEXAS,48277,2025-06-03,case_lab-confirmed,1
-LAMAR,TEXAS,48277,2025-06-17,case_lab-confirmed,18
+LAMAR,TEXAS,48277,2025-06-17,case_lab-confirmed,2
 LAMAR,TEXAS,48277,2025-07-01,case_lab-confirmed,3
 LAMAR,TEXAS,48277,2025-07-08,case_lab-confirmed,2
 LAMB,TEXAS,48279,2025-03-20,case_lab-confirmed,1
@@ -341,9 +344,12 @@ NEW YORK,NEW YORK,36061,2025-01-31,case_lab-confirmed,1
 NEW YORK,NEW YORK,36061,2025-02-26,case_lab-confirmed,1
 NEW YORK,NEW YORK,36061,2025-03-20,case_lab-confirmed,1
 NEW YORK,NEW YORK,36061,2025-05-16,case_lab-confirmed,3
+NEW YORK,NEW YORK,36061,2025-07-11,case_lab-confirmed,1
+NIOBRARA,WYOMING,56027,2025-07-11,case_lab-confirmed,1
 NORTHWEST REGION,VIRGINIA,0,2025-04-15,case_lab-confirmed,1
 NORTHWEST REGION,VIRGINIA,0,2025-06-05,case_lab-confirmed,2
 OAKLAND,MICHIGAN,26125,2025-03-14,case_lab-confirmed,1
+OCEAN,NEW JERSEY,34029,2025-07-10,case_lab-confirmed,1
 ONTARIO,NEW YORK,36069,2025-05-27,case_lab-confirmed,1
 ORANGE,CALIFORNIA,6059,2025-02-25,case_lab-confirmed,1
 ORANGE,NEW YORK,36071,2025-05-10,case_lab-confirmed,3
@@ -438,6 +444,7 @@ UPPER CUMBERLAND REGION,TENNESSEE,0,2025-04-16,case_lab-confirmed,1
 UPSHUR,TEXAS,48459,2025-04-18,case_lab-confirmed,1
 UPSHUR,TEXAS,48459,2025-04-25,case_lab-confirmed,1
 UPSHUR,TEXAS,48459,2025-05-02,case_lab-confirmed,3
+UPSTATE,SOUTH CAROLINA,0,2025-07-09,case_lab-confirmed,1
 UTAH,UTAH,49049,2025-06-20,case_lab-confirmed,1
 UTAH,UTAH,49049,2025-06-24,case_lab-confirmed,1
 UTAH,UTAH,49049,2025-06-26,case_lab-confirmed,1
@@ -458,6 +465,7 @@ WILLIAMS,NORTH DAKOTA,38105,2025-05-11,case_lab-confirmed,1
 WILLIAMS,NORTH DAKOTA,38105,2025-05-16,case_lab-confirmed,1
 WILLIAMS,NORTH DAKOTA,38105,2025-05-18,case_lab-confirmed,1
 WILLIAMS,NORTH DAKOTA,38105,2025-05-28,case_lab-confirmed,1
+WILLIAMS,NORTH DAKOTA,38105,2025-07-01,case_lab-confirmed,1
 WILLIAMSON,ILLINOIS,17199,2025-04-23,case_lab-confirmed,1
 WILLIAMSON,ILLINOIS,17199,2025-05-05,case_lab-confirmed,3
 WILLIAMSON,TEXAS,48491,2025-05-30,case_lab-confirmed,6
