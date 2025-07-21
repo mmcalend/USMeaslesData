@@ -45,12 +45,4 @@ jobs:
           timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           git commit -m "Daily update: $timestamp" || echo "No changes to commit"
 
-          # Force commit with dummy file if no changes were detected
-          if [ $(git diff --cached --quiet; echo $?) -eq 0 ]; then
-            echo "Forcing commit with dummy update"
-            echo "$timestamp" > .forced-update.txt
-            git add .forced-update.txt
-            git commit -m "Forced update to ensure daily push: $timestamp"
-          fi
-
           git push
