@@ -2,6 +2,7 @@ library(readr)
 library(dplyr)
 library(stringr)
 library(tidyr)
+library(MMWRweek)
 library(jsonlite)
 
 # --- Load JHU Measles Data ---
@@ -49,7 +50,14 @@ YearlyComparison <- left_join(states_2024_df, state_summary, by = "State") %>%
       TRUE ~ "➝"
     )
   )
-
+# Ensure date column is Date type
+measles_data <- measles_data %>%
+  mutate(date = as.Date(date)) %>%
+  mutate(
+    mmwr_week = MMWRweek(date)$MMWRweek,
+    mmwr_week_start = MMWRweek::MMWRweek2Date(MMWRyear = MMWRweek(date)$MMWRyear, 
+                                              MMWRweek = MMWRweek(date)$MMWRweek)
+  )
 # --- Format for JSON: remove "Percent Change" when 2024 Cases == 0 ---
 YearlyComparison <- YearlyComparison %>%
   mutate(
