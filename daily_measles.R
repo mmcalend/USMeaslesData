@@ -78,6 +78,26 @@ measles_data_complete <- complete_grid %>%
     cases = coalesce(cases, 0),
     county = coalesce(county, "UNKNOWN")  # optional
   )
+
+# --- Add 2-letter state codes for mapping ---
+state_codes <- tibble::tribble(
+  ~state, ~code,
+  "ALABAMA", "AL", "ALASKA", "AK", "ARIZONA", "AZ", "ARKANSAS", "AR",
+  "CALIFORNIA", "CA", "COLORADO", "CO", "CONNECTICUT", "CT", "DELAWARE", "DE",
+  "DISTRICT OF COLUMBIA", "DC", "FLORIDA", "FL", "GEORGIA", "GA", "HAWAII", "HI",
+  "IDAHO", "ID", "ILLINOIS", "IL", "INDIANA", "IN", "IOWA", "IA", "KANSAS", "KS",
+  "KENTUCKY", "KY", "LOUISIANA", "LA", "MAINE", "ME", "MARYLAND", "MD", "MASSACHUSETTS", "MA",
+  "MICHIGAN", "MI", "MINNESOTA", "MN", "MISSISSIPPI", "MS", "MISSOURI", "MO", "MONTANA", "MT",
+  "NEBRASKA", "NE", "NEVADA", "NV", "NEW HAMPSHIRE", "NH", "NEW JERSEY", "NJ",
+  "NEW MEXICO", "NM", "NEW YORK", "NY", "NEW YORK CITY", "NY", "NORTH CAROLINA", "NC",
+  "NORTH DAKOTA", "ND", "OHIO", "OH", "OKLAHOMA", "OK", "OREGON", "OR", "PENNSYLVANIA", "PA",
+  "RHODE ISLAND", "RI", "SOUTH CAROLINA", "SC", "SOUTH DAKOTA", "SD", "TENNESSEE", "TN",
+  "TEXAS", "TX", "UTAH", "UT", "VERMONT", "VT", "VIRGINIA", "VA", "WASHINGTON", "WA",
+  "WEST VIRGINIA", "WV", "WISCONSIN", "WI", "WYOMING", "WY"
+)
+
+measles_data_complete <- measles_data_complete %>%
+  left_join(state_codes, by = "state")
 # --- Format for JSON: remove "Percent Change" when 2024 Cases == 0 ---
 YearlyComparison <- YearlyComparison %>%
   mutate(
