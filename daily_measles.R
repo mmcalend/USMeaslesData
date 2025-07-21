@@ -58,6 +58,26 @@ measles_data <- measles_data %>%
     mmwr_week_start = MMWRweek::MMWRweek2Date(MMWRyear = MMWRweek(date)$MMWRyear, 
                                               MMWRweek = MMWRweek(date)$MMWRweek)
   )
+
+# --- Get all unique states and MMWR week start dates ---
+all_states <- unique(measles_data$state)
+all_weeks <- unique(measles_data$mmwr_week_start)
+
+# --- Create full state-week grid ---
+complete_grid <- expand.grid(
+  state = all_states,
+  mmwr_week_start = all_weeks,
+  stringsAsFactors = FALSE
+)
+
+# --- Merge with measles data and fill in missing values with 0 cases ---
+measles_data_complete <- complete_grid %>%
+  left_join(measles_data, by = c("state", "mmwr_week_start")) %>%
+  mutate(
+    date = coalesce(date, mmwr_week_start),  # placeholder if missing
+    cases = coalesce(cases, 0),
+    county = coalesce(county, "UNKNOWN")  # optional
+  )
 # --- Format for JSON: remove "Percent Change" when 2024 Cases == 0 ---
 YearlyComparison <- YearlyComparison %>%
   mutate(
@@ -82,4 +102,4 @@ YearlyComparison <- YearlyComparison %>%
 
 # --- Write outputs ---
 write_json(YearlyComparison, "YearlyComparison.json", pretty = TRUE, auto_unbox = TRUE)
-write_csv(measles_data, "USMeaslesCases.csv")
+write_csv(measles_data_complete, "USMeaslesCases.csv")
