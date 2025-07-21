@@ -1,6 +1,8 @@
 name: Daily Measles Pipeline
+
 permissions:
   contents: write
+
 on:
   schedule:
     - cron: "0 15 * * *"  # Runs daily at 15:00 UTC
@@ -22,25 +24,28 @@ jobs:
 
       - name: Install required R packages
         run: |
-          Rscript -e 'install.packages(c("readr", "dplyr", "stringr", "tidyr", "jsonlite"))'
+          Rscript -e 'install.packages(c("readr", "dplyr", "stringr", "tidyr", "jsonlite", "MMWRweek"))'
 
       - name: Run measles pipeline script
         run: Rscript daily_measles.R
 
-            - name: Push JSON and CSV to output repo
+      - name: Push JSON and CSV to output repo
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
+
           git clone https://github.com/mmcalend/USMeaslesData output-repo
           cp YearlyComparison.json output-repo/
           cp USMeaslesCases.csv output-repo/
+          
           cd output-repo
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mmcalend/USMeaslesData
+
           git add -A
           timestamp=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          git commit -m "Force daily update: $timestamp" || echo "No changes to commit"
+          git commit -m "Daily update: $timestamp" || echo "No changes to commit"
 
-          # Force re-commit if nothing changed
+          # Force commit with dummy file if no changes were detected
           if [ $(git diff --cached --quiet; echo $?) -eq 0 ]; then
             echo "Forcing commit with dummy update"
             echo "$timestamp" > .forced-update.txt
