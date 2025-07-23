@@ -27,9 +27,9 @@
   {
     "State": "California",
     "2024 Cases": 15,
-    "2025 Cases": 17,
+    "2025 Cases": 18,
     "Change Indicator": "▲",
-    "Percent Change": 13.3333
+    "Percent Change": 20
   },
   {
     "State": "Colorado",
@@ -204,9 +204,9 @@
   {
     "State": "New Mexico",
     "2024 Cases": 2,
-    "2025 Cases": 95,
+    "2025 Cases": 96,
     "Change Indicator": "▲",
-    "Percent Change": 4650
+    "Percent Change": 4700
   },
   {
     "State": "New York",
@@ -300,7 +300,7 @@
   {
     "State": "Utah",
     "2024 Cases": 0,
-    "2025 Cases": 10,
+    "2025 Cases": 11,
     "Change Indicator": "▲"
   },
   {
@@ -341,7 +341,7 @@
   {
     "State": "Wyoming",
     "2024 Cases": 0,
-    "2025 Cases": 2,
+    "2025 Cases": 3,
     "Change Indicator": "▲"
   }
 ]
