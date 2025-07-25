@@ -27,9 +27,9 @@
   {
     "State": "California",
     "2024 Cases": 15,
-    "2025 Cases": 18,
+    "2025 Cases": 19,
     "Change Indicator": "▲",
-    "Percent Change": 20
+    "Percent Change": 26.6667
   },
   {
     "State": "Colorado",
@@ -100,7 +100,7 @@
   {
     "State": "Iowa",
     "2024 Cases": 0,
-    "2025 Cases": 7,
+    "2025 Cases": 8,
     "Change Indicator": "▲"
   },
   {
@@ -145,9 +145,9 @@
   {
     "State": "Michigan",
     "2024 Cases": 6,
-    "2025 Cases": 18,
+    "2025 Cases": 22,
     "Change Indicator": "▲",
-    "Percent Change": 200
+    "Percent Change": 266.6667
   },
   {
     "State": "Minnesota",
