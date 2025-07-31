@@ -1,0 +1,2 @@
+total_cases,age_under_5_years,age_5-19_years,age_20+_years,unknown_age,unvaccinated_or_unknown,one_mmr_dose,two_mmr_doses,hospitalized_pct,hospitalized_cases,age1_hosp,age2_hosp,age3_hosp,age4_hosp,total_deaths
+1333,0.29,0.37,0.34,0.01,0.92,0.04,0.04,0.13,169,0.21,0.08,0.11,0.0,3
