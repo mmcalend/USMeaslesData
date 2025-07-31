@@ -21,9 +21,9 @@ jobs:
         with:
           python-version: 3.10
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
-          pip install pandas numpy epiweeks
+          pip install pandas numpy epiweeks requests
 
       - name: Run measles pipeline script
         run: python daily_measles.py
@@ -36,6 +36,7 @@ jobs:
           git clone https://github.com/mmcalend/USMeaslesData output-repo
           cp YearlyComparison.json output-repo/
           cp USMeaslesCases.csv output-repo/
+          cp USMeaslesCasesDetails.csv output-repo/
 
           cd output-repo
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mmcalend/USMeaslesData
