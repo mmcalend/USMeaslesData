@@ -1,0 +1,766 @@
+﻿state,code,school_year,estimate_pct,population_size,percent_surveyed,survey_type,categories
+Alabama,AL,2023-24,93.80%,54565,100,Census,90-94.9%
+Alaska,AK,2023-24,84.30%,8644,88.9,"Census (pub.), Not Conducted (prv.)",Less than 90%
+Arizona,AZ,2023-24,89.30%,74834,99.6,Census,Less than 90%
+Arkansas,AR,2023-24,92.50%,37535,95.4,"Census (pub.), Vol. Response (prv.)",90-94.9%
+California,CA,2023-24,96.20%,569680,100,Census,95%+
+Colorado,CO,2023-24,88.30%,61662,100,Census,Less than 90%
+Connecticut,CT,2023-24,97.70%,36184,100,Census,95%+
+Delaware,DE,2023-24,93.80%,11043,11.5,Stratified 2-stage Cluster Sample,90-94.9%
+District of Columbia,DC,2023-24,92.00%,7874,100,Census,90-94.9%
+Florida,FL,2023-24,88.10%,228213,100,Census,Less than 90%
+Georgia,GA,2023-24,88.40%,136943,100,Census,Less than 90%
+Hawaii,HI,2023-24,89.80%,13995,8.2,Stratified 2-stage Cluster Sample,Less than 90%
+Idaho,ID,2023-24,79.60%,22376,100,Census,Less than 90%
+Illinois,IL,2023-24,91.60%,133578,100,Census,90-94.9%
+Indiana,IN,2023-24,90.80%,80639,88.5,"Census (pub.), Vol. Response (prv.)",90-94.9%
+Iowa,IA,2023-24,89.10%,38611,100,Census,Less than 90%
+Kansas,KS,2023-24,90.40%,34178,37.1,Stratified 1-stage Cluster Sample,90-94.9%
+Kentucky,KY,2023-24,90.00%,52609,100,Census,90-94.9%
+Louisiana,LA,2023-24,92.40%,51839,100,Census,90-94.9%
+Maine,ME,2023-24,97.50%,12087,93,Census,95%+
+Maryland,MD,2023-24,96.60%,63224,100,Census,95%+
+Massachusetts,MA,2023-24,96.30%,65424,100,Census,95%+
+Michigan,MI,2023-24,92.10%,110156,100,Census,90-94.9%
+Minnesota,MN,2023-24,87.00%,66032,99.1,Census,Less than 90%
+Mississippi,MS,2023-24,97.50%,36105,100,Census,95%+
+Missouri,MO,2023-24,90.40%,69014,100,Census,90-94.9%
+Montana,MT,,,,,,
+Nebraska,NE,2023-24,93.90%,23118,100,Census,90-94.9%
+Nevada,NV,2023-24,91.90%,31261,91.3,Census,90-94.9%
+New Hampshire,NH,2023-24,89.20%,11871,100,Census,Less than 90%
+New Jersey,NJ,2023-24,93.20%,105408,100,Census,90-94.9%
+New Mexico,NM,2023-24,95.00%,20699,100,Census,95%+
+New York,NY,2023-24,97.70%,200894,98.8,Census,95%+
+North Carolina,NC,2023-24,93.80%,125964,90.8,"Census (pub.), Vol. Response (prv.)",90-94.9%
+North Dakota,ND,2023-24,91.00%,9674,97.8,Census,90-94.9%
+Ohio,OH,2023-24,89.20%,133716,94,"Census (pub.), Vol. Response (prv.)",Less than 90%
+Oklahoma,OK,2023-24,88.30%,49979,93.8,"Census (pub.), Vol. Response (prv.)",Less than 90%
+Oregon,OR,2023-24,91.20%,39568,100,Census,90-94.9%
+Pennsylvania,PA,2023-24,93.50%,137593,96.5,Census,90-94.9%
+Rhode Island,RI,2023-24,97.10%,10539,97.8,Census,95%+
+South Carolina,SC,2023-24,92.10%,58069,26.7,Stratified 1-stage Cluster Sample,90-94.9%
+South Dakota,SD,2023-24,90.80%,11744,99.8,Census,90-94.9%
+Tennessee,TN,2023-24,95.10%,79323,95.8,Census,95%+
+Texas,TX,2023-24,94.30%,381421,92.4,"Census (pub.), Vol. Response (prv.)",90-94.9%
+Utah,UT,2023-24,88.80%,46228,100,Census,Less than 90%
+Vermont,VT,2023-24,92.90%,5630,100,Census,90-94.9%
+Virginia,VA,2023-24,94.20%,92633,1.9,Stratified 2-stage Cluster Sample,90-94.9%
+Washington,WA,2023-24,91.30%,84053,97.2,Census,90-94.9%
+West Virginia,WV,2023-24,98.30%,18261,82.8,Vol. Response,95%+
+Wisconsin,WI,2023-24,84.80%,62028,98.2,Census,Less than 90%
+Wyoming,WY,2023-24,93.50%,6754,100,Census,90-94.9%
+Alabama,AL,2022-23,93.90%,59113,100,Census,90-94.9%
+Alaska,AK,2022-23,83.60%,9650,88.8,"Vol. Response (pub.), Not Conducted (pvt.)",Less than 90%
+Arizona,AZ,2022-23,89.90%,80814,97.7,Census,Less than 90%
+Arkansas,AR,2022-23,91.90%,38358,95.8,"Census (pub.), Vol. Response (pvt.)",90-94.9%
+California,CA,2022-23,96.50%,541132,100,Census,95%+
+Colorado,CO,2022-23,87.00%,65576,97.2,Census,Less than 90%
+Connecticut,CT,2022-23,97.30%,35580,100,Census,95%+
+Delaware,DE,2022-23,95.10%,10674,9.7,Stratified 2-stage Cluster Sample,95%+
+District of Columbia,DC,2022-23,87.50%,8064,100,Census,Less than 90%
+Florida,FL,2022-23,90.60%,230309,97.7,Census,90-94.9%
+Georgia,GA,2022-23,88.10%,123771,100,Census,Less than 90%
+Hawaii,HI,2022-23,86.40%,13195,8.1,Stratified 2-stage Cluster Sample,Less than 90%
+Idaho,ID,2022-23,81.30%,23721,99.3,Census,Less than 90%
+Illinois,IL,2022-23,91.70%,135332,100,Census,90-94.9%
+Indiana,IN,2022-23,92.00%,81307,87.5,"Vol. Response (pub.), Census (pvt.)",90-94.9%
+Iowa,IA,2022-23,89.90%,39178,100,Census,Less than 90%
+Kansas,KS,2022-23,91.60%,35543,30.8,Stratified 1-stage Cluster Sample,90-94.9%
+Kentucky,KY,2022-23,90.10%,54742,96.9,Census,90-94.9%
+Louisiana,LA,2022-23,92.20%,54314,100,Census,90-94.9%
+Maine,ME,2022-23,96.80%,12403,93.9,Census,95%+
+Maryland,MD,2022-23,96.70%,59684,100,Census,95%+
+Massachusetts,MA,2022-23,96.50%,66041,100,Census,95%+
+Michigan,MI,2022-23,92.90%,113678,100,Census,90-94.9%
+Minnesota,MN,2022-23,87.60%,68152,97.9,Census,Less than 90%
+Mississippi,MS,2022-23,98.40%,36048,100,Census,95%+
+Missouri,MO,2022-23,91.30%,69126,100,Census,90-94.9%
+Montana,MT,,,,,,
+Nebraska,NE,2022-23,95.10%,23176,100,Census,95%+
+Nevada,NV,2022-23,92.80%,34333,89.1,"Vol. Response (pub.), Census (pvt.)",90-94.9%
+New Hampshire,NH,2022-23,89.40%,11332,100,Census,Less than 90%
+New Jersey,NJ,2022-23,94.30%,104468,100,Census,90-94.9%
+New Mexico,NM,2022-23,94.90%,21068,100,Census,90-94.9%
+New York,NY,2022-23,97.90%,205906,96.6,"Census (pub.), Vol. Response (pvt.)",95%+
+North Carolina,NC,2022-23,94.00%,125679,83.1,Vol. Response,90-94.9%
+North Dakota,ND,2022-23,92.00%,10554,99.4,Census,90-94.9%
+Ohio,OH,2022-23,89.30%,134893,93.7,"Census (pub.), Vol. Response (pvt.)",Less than 90%
+Oklahoma,OK,2022-23,89.60%,52548,89.5,"Census (pub.), Vol. Response (pvt.)",Less than 90%
+Oregon,OR,2022-23,91.90%,40963,100,Census,90-94.9%
+Pennsylvania,PA,2022-23,94.00%,137259,97.2,"Census (pub.), Vol. Response (pvt.)",90-94.9%
+Rhode Island,RI,2022-23,96.90%,10532,96.5,Census,95%+
+South Carolina,SC,2022-23,93.20%,58878,28.1,Stratified 1-stage Cluster Sample,90-94.9%
+South Dakota,SD,2022-23,92.50%,12081,100,Census,90-94.9%
+Tennessee,TN,2022-23,95.40%,79692,100,Census,95%+
+Texas,TX,2022-23,94.20%,381680,98,Census,90-94.9%
+Utah,UT,2022-23,90.00%,46635,100,Census,90-94.9%
+Vermont,VT,2022-23,93.10%,5816,100,Census,90-94.9%
+Virginia,VA,2022-23,95.80%,93271,1.6,Stratified 2-stage Cluster Sample,95%+
+Washington,WA,2022-23,91.40%,86284,97.9,Census,90-94.9%
+West Virginia,WV,2022-23,95.60%,19175,86.1,"Vol. Response (pub.), Census (pvt.)",95%+
+Wisconsin,WI,2022-23,86.50%,63593,93.9,"Census (pub.), Vol. Response (pvt.)",Less than 90%
+Wyoming,WY,2022-23,90.80%,7060,100,Census,90-94.9%
+Alabama,AL,2021-22,94.90%,60332,100,Census,90-94.9%
+Alaska,AK,2021-22,78.00%,9790,76.2,"Vol. Response (pub.), Not Conducted (pvt.)",Less than 90%
+Arizona,AZ,2021-22,90.60%,83463,97,Census,90-94.9%
+Arkansas,AR,2021-22,92.50%,39358,96.3,"Census (pub.), Vol. Response (pvt.)",90-94.9%
+California,CA,2021-22,96.30%,512144,98.4,Census,95%+
+Colorado,CO,2021-22,88.40%,66900,97.5,Census,Less than 90%
+Connecticut,CT,2021-22,95.70%,35451,100,Census,95%+
+Delaware,DE,2021-22,96.40%,11181,9.5,Stratified 2-stage Cluster Sample,95%+
+District of Columbia,DC,2021-22,82.00%,8959,100,Census,Less than 90%
+Florida,FL,2021-22,91.70%,229432,97.8,Census,90-94.9%
+Georgia,GA,2021-22,83.20%,118742,100,Census,Less than 90%
+Hawaii,HI,2021-22,94.30%,13368,6.7,Stratified 2-stage Cluster Sample,90-94.9%
+Idaho,ID,2021-22,83.90%,23854,99.6,Census,Less than 90%
+Illinois,IL,2021-22,92.10%,137699,100,Census,90-94.9%
+Indiana,IN,2021-22,92.10%,83198,75.1,Vol. Response,90-94.9%
+Iowa,IA,2021-22,90.60%,40111,100,Census,90-94.9%
+Kansas,KS,2021-22,91.00%,36526,29.5,Stratified 1-stage Cluster Sample,90-94.9%
+Kentucky,KY,2021-22,86.50%,59233,91.5,Census,Less than 90%
+Louisiana,LA,2021-22,93.70%,66518,100,Census,90-94.9%
+Maine,ME,2021-22,96.70%,12881,91.6,Census,95%+
+Maryland,MD,2021-22,93.90%,53866,98.4,Census,90-94.9%
+Massachusetts,MA,2021-22,96.20%,65582,100,Census,95%+
+Michigan,MI,2021-22,93.60%,114251,100,Census,90-94.9%
+Minnesota,MN,2021-22,89.00%,69403,98.7,Census,Less than 90%
+Mississippi,MS,2021-22,98.60%,36524,100,Census,95%+
+Missouri,MO,2021-22,91.60%,71034,100,Census,90-94.9%
+Montana,MT,2021-22,NA,,NA,NA,NA
+Nebraska,NE,2021-22,96.20%,25018,99.5,Census,95%+
+Nevada,NV,2021-22,92.70%,36855,99.2,"Census (pub.), Vol. Response (pvt.)",90-94.9%
+New Hampshire,NH,2021-22,88.70%,12157,100,Census,Less than 90%
+New Jersey,NJ,2021-22,94.10%,104240,100,Census,90-94.9%
+New Mexico,NM,2021-22,94.30%,20736,100,Census,90-94.9%
+New York,NY,2021-22,98.00%,195377,99.3,Census,95%+
+North Carolina,NC,2021-22,96.10%,118191,78.5,Vol. Response,95%+
+North Dakota,ND,2021-22,91.50%,10755,96.6,Census,90-94.9%
+Ohio,OH,2021-22,88.30%,139077,91.9,"Census (pub.), Vol. Response (pvt.)",Less than 90%
+Oklahoma,OK,2021-22,90.90%,54042,84.3,Vol. Response,90-94.9%
+Oregon,OR,2021-22,93.00%,41538,100,Census,90-94.9%
+Pennsylvania,PA,2021-22,95.00%,139558,94.9,"Census (pub.), Vol. Response (pvt.)",95%+
+Rhode Island,RI,2021-22,97.30%,11002,96.9,Census,95%+
+South Carolina,SC,2021-22,92.70%,58276,27.2,1-stage Cluster Sample,90-94.9%
+South Dakota,SD,2021-22,93.70%,12251,100,Census,90-94.9%
+Tennessee,TN,2021-22,95.80%,79120,100,Census,95%+
+Texas,TX,2021-22,94.00%,389037,99.3,Census,90-94.9%
+Utah,UT,2021-22,90.00%,48995,100,Census,90-94.9%
+Vermont,VT,2021-22,93.40%,6126,100,Census,90-94.9%
+Virginia,VA,2021-22,95.50%,95996,2.8,Stratified 2-stage Cluster Sample,95%+
+Washington,WA,2021-22,92.50%,87256,97.3,"Census (pub.), Vol. Response (pvt.)",90-94.9%
+West Virginia,WV,2021-22,96.50%,18070,85.5,Vol. Response,95%+
+Wisconsin,WI,2021-22,82.60%,64275,96.8,"Census (pub.), Vol. Response (pvt.)",Less than 90%
+Wyoming,WY,2021-22,92.90%,7382,100,Census,90-94.9%
+Alabama,AL,2020-21,94.70%,56974,100,Census,90-94.9%
+Alaska,AK,2020-21,NA,,NA,NA,NA
+Arizona,AZ,2020-21,91.90%,76382,92.4,Census (public). Voluntary Response (private),90-94.9%
+Arkansas,AR,2020-21,93.20%,37540,95.6,Census (public). Voluntary Response (private),90-94.9%
+California,CA,2020-21,95.10%,498214,97.5,Census,95%+
+Colorado,CO,2020-21,90.50%,63619,97.3,Census,90-94.9%
+Connecticut,CT,2020-21,95.30%,34396,100,Census,95%+
+Delaware,DE,2020-21,95.70%,10587,9.2,Stratified 2-stage Cluster Sample,95%+
+District of Columbia,DC,2020-21,78.90%,8262,100,Census,Less than 90%
+Florida,FL,2020-21,93.30%,207026,100,Census,90-94.9%
+Georgia,GA,2020-21,88.50%,83191,100,Census,Less than 90%
+Hawaii,HI,2020-21,90.70%,13074,9.3,Stratified 2-stage Cluster Sample,90-94.9%
+Idaho,ID,2020-21,86.50%,22677,98.3,Census,Less than 90%
+Illinois,IL,2020-21,NA,,NA,Not Conducted,NA
+Indiana,IN,2020-21,93.10%,78694,71.4,Voluntary Response,90-94.9%
+Iowa,IA,2020-21,93.40%,39141,100,Census,90-94.9%
+Kansas,KS,2020-21,92.60%,34687,32.7,Stratified 2-stage Cluster Sample,90-94.9%
+Kentucky,KY,2020-21,88.90%,59233,86.4,Census (public). Voluntary Response (private),Less than 90%
+Louisiana,LA,2020-21,96.20%,61912,100,Census,95%+
+Maine,ME,2020-21,94.30%,13477,85,Voluntary Response (public). Census (private),90-94.9%
+Maryland,MD,2020-21,87.60%,65764,75.6,Voluntary Response,Less than 90%
+Massachusetts,MA,2020-21,95.90%,60724,100,Census,95%+
+Michigan,MI,2020-21,94.60%,106657,100,Census,90-94.9%
+Minnesota,MN,2020-21,89.80%,66007,95.2,Census,Less than 90%
+Mississippi,MS,2020-21,98.90%,34028,100,Census,95%+
+Missouri,MO,2020-21,92.60%,63093,100,Census,90-94.9%
+Montana,MT,2020-21,92.90%,11279,100,Census,90-94.9%
+Nebraska,NE,2020-21,95.50%,25681,94.8,Census (public). Voluntary Response (private),95%+
+Nevada,NV,2020-21,96.10%,34171,94.7,Census (public). Voluntary Response (private),95%+
+New Hampshire,NH,2020-21,90.80%,10242,57,Voluntary Response,90-94.9%
+New Jersey,NJ,2020-21,94.30%,100144,100,Census,90-94.9%
+New Mexico,NM,2020-21,95.70%,20589,100,Census,95%+
+New York,NY,2020-21,98.30%,216804,91.5,Census (public). Voluntary Response (private),95%+
+North Carolina,NC,2020-21,95.20%,120995,89,Census (public). Voluntary Response (private),95%+
+North Dakota,ND,2020-21,93.30%,10116,99.1,Census,90-94.9%
+Ohio,OH,2020-21,89.60%,128535,91.1,Census (public). Voluntary Response (private),Less than 90%
+Oklahoma,OK,2020-21,90.50%,52656,90,Census (public). Voluntary Response (private),90-94.9%
+Oregon,OR,2020-21,92.70%,39568,100,Census,90-94.9%
+Pennsylvania,PA,2020-21,95.50%,129307,95,Census (public). Voluntary Response (private),95%+
+Rhode Island,RI,2020-21,97.00%,10402,93,Census,95%+
+South Carolina,SC,2020-21,94.40%,56330,26.5,Stratified 1-stage Cluster Sample,90-94.9%
+South Dakota,SD,2020-21,94.60%,11512,99.9,Census,90-94.9%
+Tennessee,TN,2020-21,96.60%,73819,100,Census,95%+
+Texas,TX,2020-21,95.30%,377840,98.9,Census,95%+
+Utah,UT,2020-21,91.40%,46247,100,Census,90-94.9%
+Vermont,VT,2020-21,94.00%,5535,100,Census,90-94.9%
+Virginia,VA,2020-21,95.80%,88273,2,Stratified 2-stage Cluster Sample,95%+
+Washington,WA,2020-21,94.40%,74931,100,Census,90-94.9%
+West Virginia,WV,2020-21,NA,,NA,Not Conducted,NA
+Wisconsin,WI,2020-21,87.20%,63486,84.5,Voluntary Response,Less than 90%
+Wyoming,WY,2020-21,90.20%,6923,100,Census,90-94.9%
+Alabama,AL,2019-20,86.60%,59477,94.9,Census,Less than 90%
+Alaska,AK,2019-20,NA,10381,82.7,Voluntary Response,NA
+Arizona,AZ,2019-20,92.80%,83976,98.7,Census (public). Voluntary Response (private),90-94.9%
+Arkansas,AR,2019-20,94.30%,39510,96.2,Census (public). Voluntary Response (private),90-94.9%
+California,CA,2019-20,96.50%,566155,97.9,Census,95%+
+Colorado,CO,2019-20,91.10%,69088,98.2,Census,90-94.9%
+Connecticut,CT,2019-20,96.20%,38888,100,Census,95%+
+Delaware,DE,2019-20,NA,,NA,Not Conducted,NA
+District of Columbia,DC,2019-20,NA,,NA,Not Conducted,NA
+Florida,FL,2019-20,93.50%,228298,100,Census,90-94.9%
+Georgia,GA,2019-20,93.10%,130102,100,Census,90-94.9%
+Hawaii,HI,2019-20,89.70%,15695,8.9,Stratified 2-stage Cluster Sample,Less than 90%
+Idaho,ID,2019-20,89.10%,23301,98.5,Census,Less than 90%
+Illinois,IL,2019-20,96.60%,145891,100,Census,95%+
+Indiana,IN,2019-20,94.40%,88253,65.7,Voluntary Response,90-94.9%
+Iowa,IA,2019-20,93.20%,40812,100,Census,90-94.9%
+Kansas,KS,2019-20,90.00%,37865,34.3,Stratified 2-stage Cluster Sample,90-94.9%
+Kentucky,KY,2019-20,93.10%,59233,92.9,Census,90-94.9%
+Louisiana,LA,2019-20,95.60%,59685,100,Census,95%+
+Maine,ME,2019-20,94.10%,13450,99.6,Census,90-94.9%
+Maryland,MD,2019-20,97.90%,72443,98.3,Census (public). Voluntary Response (private),95%+
+Massachusetts,MA,2019-20,97.30%,66756,100,Census,95%+
+Michigan,MI,2019-20,94.80%,120565,100,Census,90-94.9%
+Minnesota,MN,2019-20,92.60%,71223,98.7,Census,90-94.9%
+Mississippi,MS,2019-20,99.10%,37870,100,Census,95%+
+Missouri,MO,2019-20,94.60%,72324,100,Census,90-94.9%
+Montana,MT,2019-20,93.60%,12501,100,Census,90-94.9%
+Nebraska,NE,2019-20,96.30%,26893,96.7,Census,95%+
+Nevada,NV,2019-20,95.40%,37724,99.9,Census,95%+
+New Hampshire,NH,2019-20,91.50%,12447,100,Census,90-94.9%
+New Jersey,NJ,2019-20,95.90%,107900,100,Census,95%+
+New Mexico,NM,2019-20,97.00%,23087,100,Census,95%+
+New York,NY,2019-20,98.60%,234165,99.9,Census,95%+
+North Carolina,NC,2019-20,95.50%,124548,97.8,Census,95%+
+North Dakota,ND,2019-20,94.80%,10587,99.5,Census,90-94.9%
+Ohio,OH,2019-20,92.40%,139103,98.8,Census,90-94.9%
+Oklahoma,OK,2019-20,93.00%,55348,85.6,Voluntary Response,90-94.9%
+Oregon,OR,2019-20,93.40%,45959,100,Census,90-94.9%
+Pennsylvania,PA,2019-20,96.60%,140197,98.8,Census,95%+
+Rhode Island,RI,2019-20,97.70%,11219,98.5,Census,95%+
+South Carolina,SC,2019-20,95.00%,65938,27.5,Stratified 1-stage Cluster Sample,95%+
+South Dakota,SD,2019-20,96.00%,12367,99.8,Census,95%+
+Tennessee,TN,2019-20,96.80%,80595,100,Census,95%+
+Texas,TX,2019-20,96.90%,398680,99.6,Census,95%+
+Utah,UT,2019-20,92.70%,49208,100,Census,90-94.9%
+Vermont,VT,2019-20,94.50%,6293,100,Census,90-94.9%
+Virginia,VA,2019-20,94.60%,99399,1.2,Stratified 2-stage Cluster Sample,90-94.9%
+Washington,WA,2019-20,94.40%,87757,91.9,Census,90-94.9%
+West Virginia,WV,2019-20,98.20%,17114,49.6,Voluntary Response,95%+
+Wisconsin,WI,2019-20,92.80%,67391,2.6,Stratified 2-stage Cluster Sample,90-94.9%
+Wyoming,WY,2019-20,94.50%,7913,100,Census,90-94.9%
+Alabama,AL,2018-19,90.60%,77739,100,Census,90-94.9%
+Alaska,AK,2018-19,NA,,NA,NA,NA
+Arizona,AZ,2018-19,92.90%,79981,100,Census,90-94.9%
+Arkansas,AR,2018-19,94.20%,39257,95.4,Census (public). Voluntary Response (private),90-94.9%
+California,CA,2018-19,96.50%,568947,97.7,Census,95%+
+Colorado,CO,2018-19,87.40%,64191,100,Census,Less than 90%
+Connecticut,CT,2018-19,95.90%,38230,100,Census,95%+
+Delaware,DE,2018-19,97.80%,10798,9.5,Stratified 2-stage Cluster Sample,95%+
+District of Columbia,DC,2018-19,NA,,NA,NA,NA
+Florida,FL,2018-19,93.80%,224641,100,Census,90-94.9%
+Georgia,GA,2018-19,93.60%,131275,100,Census,90-94.9%
+Hawaii,HI,2018-19,91.50%,16051,6.7,Stratified 2-stage Cluster Sample,90-94.9%
+Idaho,ID,2018-19,89.50%,22995,99,Census,Less than 90%
+Illinois,IL,2018-19,94.70%,143876,100,Census,90-94.9%
+Indiana,IN,2018-19,91.20%,82324,96.4,Census,90-94.9%
+Iowa,IA,2018-19,93.30%,40624,100,Census,90-94.9%
+Kansas,KS,2018-19,90.80%,37838,23.1,Stratified 2-stage Cluster Sample,90-94.9%
+Kentucky,KY,2018-19,93.40%,55587,99,Census,90-94.9%
+Louisiana,LA,2018-19,95.50%,56203,100,Census,95%+
+Maine,ME,2018-19,93.80%,13419,95.9,Census,90-94.9%
+Maryland,MD,2018-19,97.40%,71431,100,Census,95%+
+Massachusetts,MA,2018-19,96.90%,65279,100,Census,95%+
+Michigan,MI,2018-19,94.60%,118632,100,Census,90-94.9%
+Minnesota,MN,2018-19,92.60%,70085,98.1,Census,90-94.9%
+Mississippi,MS,2018-19,99.20%,37775,100,Census,95%+
+Missouri,MO,2018-19,94.80%,72687,100,Census,90-94.9%
+Montana,MT,2018-19,93.30%,12480,100,Census,90-94.9%
+Nebraska,NE,2018-19,96.90%,26925,98.6,Census,95%+
+Nevada,NV,2018-19,95.10%,37971,4.8,Stratified 2-stage Cluster Sample,95%+
+New Hampshire,NH,2018-19,91.80%,12421,100,Census,90-94.9%
+New Jersey,NJ,2018-19,95.00%,109161,100,Census,95%+
+New Mexico,NM,2018-19,96.10%,25269,99.6,Census,95%+
+New York,NY,2018-19,97.20%,220495,100,Census,95%+
+North Carolina,NC,2018-19,93.20%,124343,90.9,Census (public). Voluntary Response (private),90-94.9%
+North Dakota,ND,2018-19,93.60%,10382,99.4,Census,90-94.9%
+Ohio,OH,2018-19,91.60%,139679,94.9,Census (public). Voluntary Response (private),90-94.9%
+Oklahoma,OK,2018-19,92.20%,54806,92.1,Census (public). Voluntary Response (private),90-94.9%
+Oregon,OR,2018-19,93.00%,45870,100,Census,90-94.9%
+Pennsylvania,PA,2018-19,96.40%,143560,93.3,Census (public). Voluntary Response (private),95%+
+Rhode Island,RI,2018-19,97.40%,10964,100,Census,95%+
+South Carolina,SC,2018-19,94.20%,58442,27,Stratified 1-stage Cluster Sample,90-94.9%
+South Dakota,SD,2018-19,96.20%,12062,99.9,Census,95%+
+Tennessee,TN,2018-19,96.50%,78630,100,Census,95%+
+Texas,TX,2018-19,96.90%,390034,99.4,Census,95%+
+Utah,UT,2018-19,92.80%,50179,100,Census,90-94.9%
+Vermont,VT,2018-19,93.00%,6126,100,Census,90-94.9%
+Virginia,VA,2018-19,95.00%,100394,4.4,Stratified 2-stage Cluster Sample,95%+
+Washington,WA,2018-19,90.80%,87510,96.9,Census,90-94.9%
+West Virginia,WV,2018-19,98.80%,19442,79.3,Voluntary Response,95%+
+Wisconsin,WI,2018-19,92.60%,66344,2.3,Stratified 2-stage Cluster Sample,90-94.9%
+Wyoming,WY,2018-19,95.10%,7734,100,Census,95%+
+Alabama,AL,2017-18,92.70%,57245,100,Census,90-94.9%
+Alaska,AK,2017-18,91.60%,9692,84.4,Stratified 2-stage Cluster Sample,90-94.9%
+Arizona,AZ,2017-18,93.40%,81710,100,Census,90-94.9%
+Arkansas,AR,2017-18,91.90%,39630,95.4,Census,90-94.9%
+California,CA,2017-18,96.90%,574702,100,Census,95%+
+Colorado,CO,2017-18,88.70%,65718,100,Census,Less than 90%
+Connecticut,CT,2017-18,96.50%,39174,100,Census,95%+
+Delaware,DE,2017-18,96.70%,10988,9.5,Stratified 2-stage Cluster Sample,95%+
+District of Columbia,DC,,,,,,
+Florida,FL,2017-18,93.70%,222397,100,Census,90-94.9%
+Georgia,GA,2017-18,93.40%,131459,100,Census,90-94.9%
+Hawaii,HI,2017-18,95.60%,16325,6.6,Stratified 2-stage Cluster Sample,95%+
+Idaho,ID,2017-18,89.50%,22553,99,Census,Less than 90%
+Illinois,IL,2017-18,95.20%,144858,100,Census,95%+
+Indiana,IN,2017-18,90.40%,84296,96.4,Voluntary Response,90-94.9%
+Iowa,IA,2017-18,93.00%,39632,100,Census,90-94.9%
+Kansas,KS,2017-18,89.10%,38484,23.1,Stratified 2-stage Cluster Sample,Less than 90%
+Kentucky,KY,2017-18,92.60%,55152,99,Census,90-94.9%
+Louisiana,LA,2017-18,96.10%,58277,100,Census,95%+
+Maine,ME,2017-18,94.30%,13255,95.9,Census,90-94.9%
+Maryland,MD,2017-18,97.40%,68528,98.5,Census,95%+
+Massachusetts,MA,2017-18,96.30%,63377,100,Census,95%+
+Michigan,MI,2017-18,95.00%,119028,100,Census,95%+
+Minnesota,MN,2017-18,92.50%,69807,98.1,Census,90-94.9%
+Mississippi,MS,2017-18,99.40%,39284,100,Census,95%+
+Missouri,MO,2017-18,95.20%,73113,100,Census,95%+
+Montana,MT,2017-18,93.20%,12188,100,Census,90-94.9%
+Nebraska,NE,2017-18,96.20%,26313,98.6,Census,95%+
+Nevada,NV,2017-18,93.00%,37178,4.8,Stratified 2-stage Cluster Sample,90-94.9%
+New Hampshire,NH,2017-18,92.40%,12165,100,Census,90-94.9%
+New Jersey,NJ,2017-18,96.10%,107630,100,Census,95%+
+New Mexico,NM,2017-18,94.80%,26896,99.6,Stratified 2-stage Cluster Sample,90-94.9%
+New York,NY,2017-18,97.20%,226456,100,Census,95%+
+North Carolina,NC,2017-18,97.00%,127197,90.9,Census,95%+
+North Dakota,ND,2017-18,94.20%,10365,99.4,Census,90-94.9%
+Ohio,OH,2017-18,92.10%,138753,94.9,Census,90-94.9%
+Oklahoma,OK,2017-18,92.60%,53898,92.1,Census (public). Voluntary Response (private),90-94.9%
+Oregon,OR,2017-18,93.20%,45818,100,Census,90-94.9%
+Pennsylvania,PA,2017-18,96.70%,141571,93.3,Voluntary Response,95%+
+Rhode Island,RI,2017-18,96.40%,11025,100,Census,95%+
+South Carolina,SC,2017-18,96.30%,58458,27,Stratified 1-stage Cluster Sample,95%+
+South Dakota,SD,2017-18,96.60%,12125,99.9,Census,95%+
+Tennessee,TN,2017-18,96.90%,78743,100,Census,95%+
+Texas,TX,2017-18,96.90%,387981,99.4,Census,95%+
+Utah,UT,2017-18,93.40%,48827,100,Census,90-94.9%
+Vermont,VT,2017-18,94.10%,6255,100,Census,90-94.9%
+Virginia,VA,2017-18,95.50%,100581,4.4,Stratified 2-stage Cluster Sample,95%+
+Washington,WA,2017-18,90.60%,85118,96.9,Census,90-94.9%
+West Virginia,WV,2017-18,98.40%,19519,79.3,Voluntary Response,95%+
+Wisconsin,WI,2017-18,91.80%,66178,2.3,Stratified 2-stage Cluster Sample,90-94.9%
+Wyoming,WY,2017-18,NA,,NA,Not Conducted,NA
+Alabama,AL,2016-17,93.80%,58394,100,Census,90-94.9%
+Alaska,AK,2016-17,89.00%,9815,7.6,Stratified 2-stage Cluster Sample,Less than 90%
+Arizona,AZ,2016-17,94.00%,83627,100,Census,90-94.9%
+Arkansas,AR,2016-17,91.90%,39666,75.9,Voluntary Response,90-94.9%
+California,CA,2016-17,97.30%,575305,97.8,Census,95%+
+Colorado,CO,2016-17,87.30%,64440,100,Census,Less than 90%
+Connecticut,CT,2016-17,96.70%,39002,100,Census,95%+
+Delaware,DE,2016-17,98.50%,11490,9.3,Stratified 2-stage Cluster Sample,95%+
+District of Columbia,DC,,,,,,
+Florida,FL,2016-17,94.10%,224463,100,Census,90-94.9%
+Georgia,GA,2016-17,93.30%,136165,100,Census,90-94.9%
+Hawaii,HI,2016-17,93.50%,16325,6.7,Stratified 2-stage Cluster Sample,90-94.9%
+Idaho,ID,2016-17,89.90%,22589,100,Census,Less than 90%
+Illinois,IL,2016-17,94.90%,151309,97.7,Census,90-94.9%
+Indiana,IN,2016-17,88.90%,83263,80.3,Voluntary Response,Less than 90%
+Iowa,IA,2016-17,92.60%,39587,100,Census,90-94.9%
+Kansas,KS,2016-17,89.50%,38298,22.9,Stratified 2-stage Cluster Sample,Less than 90%
+Kentucky,KY,2016-17,90.80%,51487,92.9,Census,90-94.9%
+Louisiana,LA,2016-17,97.10%,55257,100,Census,95%+
+Maine,ME,2016-17,94.90%,13834,90.1,Voluntary Response (public). Census (private),90-94.9%
+Maryland,MD,2016-17,97.90%,71467,98.1,Census,95%+
+Massachusetts,MA,2016-17,96.10%,70109,100,Census,95%+
+Michigan,MI,2016-17,95.60%,118777,100,Census,95%+
+Minnesota,MN,2016-17,92.80%,69140,96.7,Census,90-94.9%
+Mississippi,MS,2016-17,99.40%,40509,100,Census,95%+
+Missouri,MO,2016-17,95.40%,73355,100,Census,95%+
+Montana,MT,2016-17,93.80%,11956,100,Census,90-94.9%
+Nebraska,NE,2016-17,96.70%,27117,100,Census,95%+
+Nevada,NV,2016-17,90.90%,36885,3.7,Stratified 2-stage Cluster Sample,90-94.9%
+New Hampshire,NH,2016-17,91.50%,12145,100,Census,90-94.9%
+New Jersey,NJ,2016-17,96.50%,109577,100,Census,95%+
+New Mexico,NM,2016-17,95.50%,27119,4.5,Stratified 2-stage Cluster Sample,95%+
+New York,NY,2016-17,97.30%,227050,100,Census,95%+
+North Carolina,NC,2016-17,96.20%,126454,88.2,Voluntary Response,95%+
+North Dakota,ND,2016-17,93.80%,9799,98.7,Census,90-94.9%
+Ohio,OH,2016-17,92.60%,137542,95.5,Census,90-94.9%
+Oklahoma,OK,2016-17,NA,52184,0,Census,NA
+Oregon,OR,2016-17,93.80%,45705,100,Census,90-94.9%
+Pennsylvania,PA,2016-17,93.60%,143888,84.4,Voluntary Response,90-94.9%
+Rhode Island,RI,2016-17,95.10%,11100,98.4,Census,95%+
+South Carolina,SC,2016-17,96.00%,59177,8.9,Stratified 1-stage Cluster Sample,95%+
+South Dakota,SD,2016-17,96.70%,12106,99.8,Census,95%+
+Tennessee,TN,2016-17,96.90%,78169,100,Census,95%+
+Texas,TX,2016-17,97.30%,389999,99,Census,95%+
+Utah,UT,2016-17,93.80%,49073,100,Census,90-94.9%
+Vermont,VT,2016-17,93.60%,6344,100,Census,90-94.9%
+Virginia,VA,2016-17,94.10%,102357,4,Stratified 2-stage Cluster Sample,90-94.9%
+Washington,WA,2016-17,90.50%,87142,98.2,Census,90-94.9%
+West Virginia,WV,2016-17,95.90%,28666,66.5,Census (public). Voluntary Response (private),95%+
+Wisconsin,WI,2016-17,94.00%,67607,2.2,Stratified 2-stage Cluster Sample,90-94.9%
+Wyoming,WY,2016-17,NA,,NA,Not Conducted,NA
+Alabama,AL,2015-16,93.10%,60392,100,Census,90-94.9%
+Alaska,AK,2015-16,93.50%,9937,7.8,Stratified 2-stage Cluster Sample,90-94.9%
+Arizona,AZ,2015-16,94.20%,83088,100,Census,90-94.9%
+Arkansas,AR,2015-16,90.80%,40258,95.6,Census (public); Voluntary Response (private),90-94.9%
+California,CA,2015-16,94.50%,593788,92.8,Census,90-94.9%
+Colorado,CO,2015-16,87.10%,69137,0.5,Simple Random Sample,Less than 90%
+Connecticut,CT,2015-16,97.00%,39533,100,Census,95%+
+Delaware,DE,2015-16,97.60%,11589,9.5,Stratified 2-stage Cluster Sample,95%+
+District of Columbia,DC,2015-16,88.50%,8080,100,Census,Less than 90%
+Florida,FL,2015-16,93.70%,224430,100,Census,90-94.9%
+Georgia,GA,2015-16,94.60%,131403,100,Census,90-94.9%
+Hawaii,HI,2015-16,91.60%,16325,6.7,Stratified 2-stage Cluster Sample,90-94.9%
+Idaho,ID,2015-16,90.20%,22686,100,Census,90-94.9%
+Illinois,IL,2015-16,94.90%,151309,100,Census,90-94.9%
+Indiana,IN,2015-16,89.20%,83525,69.5,Voluntary Response,Less than 90%
+Iowa,IA,2015-16,91.80%,41215,100,Census,90-94.9%
+Kansas,KS,2015-16,89.40%,39555,21,Stratified 2-stage Cluster Sample,Less than 90%
+Kentucky,KY,2015-16,92.20%,54353,99.5,Census,90-94.9%
+Louisiana,LA,2015-16,96.80%,59159,100,Census,95%+
+Maine,ME,2015-16,95.10%,13526,90.5,Census,95%+
+Maryland,MD,2015-16,99.40%,72012,94.3,Census (public); Voluntary Response (private),95%+
+Massachusetts,MA,2015-16,96.40%,72897,100,Census,95%+
+Michigan,MI,2015-16,95.70%,116299,100,Census,95%+
+Minnesota,MN,2015-16,92.80%,69710,97.8,Census,90-94.9%
+Mississippi,MS,2015-16,99.40%,41042,100,Census,95%+
+Missouri,MO,2015-16,95.70%,74413,100,Census,95%+
+Montana,MT,2015-16,94.90%,11484,100,Census,90-94.9%
+Nebraska,NE,2015-16,95.60%,30409,100,Census,95%+
+Nevada,NV,2015-16,94.70%,37118,3.3,Stratified 2-stage Cluster Sample,90-94.9%
+New Hampshire,NH,2015-16,91.90%,11852,99.8,Census,90-94.9%
+New Jersey,NJ,2015-16,96.30%,110116,100,Census,95%+
+New Mexico,NM,2015-16,96.20%,29049,2.7,Stratified 2-stage Cluster Sample,95%+
+New York,NY,2015-16,95.60%,232521,100,Census,95%+
+North Carolina,NC,2015-16,97.30%,128290,92,Census (public). Voluntary Response (private),95%+
+North Dakota,ND,2015-16,90.70%,9875,97.1,Census,90-94.9%
+Ohio,OH,2015-16,92.10%,144604,93.7,Census (public); Voluntary Response (private),90-94.9%
+Oklahoma,OK,2015-16,94.40%,54335,96.1,Census,90-94.9%
+Oregon,OR,2015-16,93.90%,45531,100,Census,90-94.9%
+Pennsylvania,PA,2015-16,95.50%,143298,93.2,Census (public); Voluntary Response (private),95%+
+Rhode Island,RI,2015-16,96.40%,11165,100,Census,95%+
+South Carolina,SC,2015-16,96.50%,59240,8.9,Stratified 1-stage Cluster Sample,95%+
+South Dakota,SD,2015-16,96.50%,12181,100,Census,95%+
+Tennessee,TN,2015-16,93.50%,79233,100,Census,90-94.9%
+Texas,TX,2015-16,97.60%,394801,98.7,Census (public); Voluntary Response (private),95%+
+Utah,UT,2015-16,94.20%,50114,100,Census,90-94.9%
+Vermont,VT,2015-16,93.60%,6366,100,Census,90-94.9%
+Virginia,VA,2015-16,95.70%,100074,4.3,Stratified 2-stage Cluster Sample,95%+
+Washington,WA,2015-16,91.00%,86492,97.3,Census,90-94.9%
+West Virginia,WV,2015-16,95.20%,21333,87.6,Voluntary Response,95%+
+Wisconsin,WI,2015-16,93.20%,70220,2,Stratified 2-stage Cluster Sample,90-94.9%
+Wyoming,WY,2015-16,96.90%,7825,74,Voluntary Response,95%+
+Alabama,AL,2014-15,93.50%,59660,100,Census,90-94.9%
+Alaska,AK,2014-15,92.70%,10129,7.8,Stratified 2-stage Cluster Sample,90-94.9%
+Arizona,AZ,2014-15,94.20%,86153,98.3,Census,90-94.9%
+Arkansas,AR,2014-15,88.40%,41252,95.9,Census (public); Voluntary Response (private),Less than 90%
+California,CA,2014-15,92.60%,552583,96.9,Census,90-94.9%
+Colorado,CO,2014-15,86.90%,70597,0.5,Simple Random Sample,Less than 90%
+Connecticut,CT,2014-15,97.00%,39948,100,Census,95%+
+Delaware,DE,2014-15,97.80%,11476,7.9,Stratified 2-stage Cluster Sample,95%+
+District of Columbia,DC,2014-15,89.90%,7840,100,Census,Less than 90%
+Florida,FL,2014-15,93.30%,228982,100,Census,90-94.9%
+Georgia,GA,2014-15,94.00%,139471,100,Census,90-94.9%
+Hawaii,HI,2014-15,NA,20085,5.6,Stratified 2-stage Cluster Sample,NA
+Idaho,ID,2014-15,89.50%,22968,100,Census,Less than 90%
+Illinois,IL,2014-15,94.70%,156942,100,Census,90-94.9%
+Indiana,IN,2014-15,89.30%,85477,70.1,Voluntary Response,Less than 90%
+Iowa,IA,2014-15,91.90%,43239,96.3,Census,90-94.9%
+Kansas,KS,2014-15,89.20%,39685,24.5,Stratified 2-stage Cluster Sample,Less than 90%
+Kentucky,KY,2014-15,92.70%,57884,97.2,Census,90-94.9%
+Louisiana,LA,2014-15,96.80%,60377,100,Census,95%+
+Maine,ME,2014-15,92.10%,13704,88.9,Voluntary Response (public); Census (private),90-94.9%
+Maryland,MD,2014-15,99.10%,75391,90.2,Census (public); Voluntary Response (private),95%+
+Massachusetts,MA,2014-15,94.70%,74869,100,Census,90-94.9%
+Michigan,MI,2014-15,94.30%,117963,100,Census,90-94.9%
+Minnesota,MN,2014-15,93.50%,70896,97.8,Census,90-94.9%
+Mississippi,MS,2014-15,99.20%,44129,100,Census,95%+
+Missouri,MO,2014-15,95.80%,75900,100,Census,95%+
+Montana,MT,2014-15,94.60%,12501,95.7,Census (public); Voluntary Response (private),90-94.9%
+Nebraska,NE,2014-15,96.00%,26665,100,Census,95%+
+Nevada,NV,2014-15,94.00%,36755,2.8,Stratified 2-stage Cluster Sample,90-94.9%
+New Hampshire,NH,2014-15,91.40%,12422,98.9,Census (public); Voluntary Response (private),90-94.9%
+New Jersey,NJ,2014-15,92.30%,120471,93.9,Census (public); Voluntary Response (private),90-94.9%
+New Mexico,NM,2014-15,97.70%,29918,3.3,Stratified 2-stage Cluster Sample,95%+
+New York,NY,2014-15,98.20%,237045,100,Census,95%+
+North Carolina,NC,2014-15,96.50%,129792,95,Census (public). Voluntary Response (private),95%+
+North Dakota,ND,2014-15,89.80%,10017,99.9,Census,Less than 90%
+Ohio,OH,2014-15,91.90%,149080,91,Census (public); Voluntary Response (private),90-94.9%
+Oklahoma,OK,2014-15,90.30%,56967,95.9,Census,90-94.9%
+Oregon,OR,2014-15,94.10%,46229,100,Census,90-94.9%
+Pennsylvania,PA,2014-15,91.70%,146378,98.3,Census,90-94.9%
+Rhode Island,RI,2014-15,95.70%,11163,98.9,Census,95%+
+South Carolina,SC,2014-15,96.50%,62864,12.2,Stratified 1-stage Cluster Sample,95%+
+South Dakota,SD,2014-15,97.10%,12008,100,Census,95%+
+Tennessee,TN,2014-15,95.10%,78276,100,Census,95%+
+Texas,TX,2014-15,97.40%,406099,98.3,Census (public); Voluntary Response (private),95%+
+Utah,UT,2014-15,94.00%,50916,100,Census,90-94.9%
+Vermont,VT,2014-15,92.70%,6277,100,Census,90-94.9%
+Virginia,VA,2014-15,93.40%,103821,4.1,Stratified 2-stage Cluster Sample,90-94.9%
+Washington,WA,2014-15,89.40%,88809,96.7,Census (public); Voluntary Response (private),Less than 90%
+West Virginia,WV,2014-15,97.60%,22016,81.3,Voluntary Response,95%+
+Wisconsin,WI,2014-15,91.60%,69335,2.5,Stratified 2-stage Cluster Sample,90-94.9%
+Wyoming,WY,2014-15,96.80%,7983,97.9,Census,95%+
+Alabama,AL,2013-14,92.00%,76927,100,Census,90-94.9%
+Alaska,AK,2013-14,94.40%,10222,9.3,Stratified  2-stage Cluster Sample,90-94.9%
+Arizona,AZ,2013-14,93.90%,89606,95.8,Census,90-94.9%
+Arkansas,AR,2013-14,86.50%,42649,96.3,Census,Less than 90%
+California,CA,2013-14,92.30%,548606,97.3,Census,90-94.9%
+Colorado,CO,2013-14,81.70%,69904,0.5,Random Sample,Less than 90%
+Connecticut,CT,2013-14,96.90%,40978,100,Census,95%+
+Delaware,DE,2013-14,96.40%,11997,12.2,Stratified  2-stage Cluster Sample,95%+
+District of Columbia,DC,2013-14,NA,7856,100,Census,NA
+Florida,FL,2013-14,93.20%,233797,100,Census,90-94.9%
+Georgia,GA,2013-14,94.00%,143988,100,Census,90-94.9%
+Hawaii,HI,2013-14,NA,20056,5.4,Stratified  2-stage Cluster Sample,NA
+Idaho,ID,2013-14,88.20%,23934,100,Census,Less than 90%
+Illinois,IL,2013-14,94.70%,163316,100,Census,90-94.9%
+Indiana,IN,2013-14,92.90%,87193,70.3,Voluntary Response,90-94.9%
+Iowa,IA,2013-14,91.00%,43728,94.6,Census,90-94.9%
+Kansas,KS,2013-14,86.90%,41107,29,Stratified 1-stage Sample  (public);  Census (private),Less than 90%
+Kentucky,KY,2013-14,92.60%,57857,100,Census,90-94.9%
+Louisiana,LA,2013-14,96.80%,63976,100,Census,95%+
+Maine,ME,2013-14,89.90%,15441,82.4,Voluntary Response,Less than 90%
+Maryland,MD,2013-14,97.60%,75659,96.9,Census,95%+
+Massachusetts,MA,2013-14,95.10%,79894,97.9,Census,95%+
+Michigan,MI,2013-14,97.50%,120297,100,Census,95%+
+Minnesota,MN,2013-14,93.40%,72087,98.5,Census,90-94.9%
+Mississippi,MS,2013-14,99.70%,45719,100,Census,95%+
+Missouri,MO,2013-14,95.50%,78140,100,Census,95%+
+Montana,MT,2013-14,93.70%,12855,95.4,Census,90-94.9%
+Nebraska,NE,2013-14,96.60%,27000,97.3,Census,95%+
+Nevada,NV,2013-14,95.60%,35782,3.1,Stratified  2-stage Cluster Sample,95%+
+New Hampshire,NH,2013-14,94.70%,13240,100,Census,90-94.9%
+New Jersey,NJ,2013-14,96.80%,123085,95.4,Census,95%+
+New Mexico,NM,2013-14,95.90%,30725,2.7,Stratified  2-stage Cluster Sample,95%+
+New York,NY,2013-14,96.80%,240318,100,Census,95%+
+North Carolina,NC,2013-14,NA,126084,97.7,Census,NA
+North Dakota,ND,2013-14,90.00%,9780,96.1,Census (public); Stratified  2-stage Cluster Sample(private),90-94.9%
+Ohio,OH,2013-14,96.20%,150000,92.5,Census,95%+
+Oklahoma,OK,2013-14,96.40%,57377,71.3,Voluntary Response,95%+
+Oregon,OR,2013-14,93.20%,47649,100,Census,90-94.9%
+Pennsylvania,PA,2013-14,85.30%,151253,100,Census,Less than 90%
+Rhode Island,RI,2013-14,95.10%,11521,99.1,Census,95%+
+South Carolina,SC,2013-14,96.80%,61661,11,1-stage Stratified Sample,95%+
+South Dakota,SD,2013-14,96.60%,12566,100,Census,95%+
+Tennessee,TN,2013-14,94.90%,80212,99.8,Census,90-94.9%
+Texas,TX,2013-14,97.50%,409255,97.1,Census,95%+
+Utah,UT,2013-14,98.50%,54779,100,Census,95%+
+Vermont,VT,2013-14,91.20%,6771,100,Census,90-94.9%
+Virginia,VA,2013-14,93.10%,105692,4.1,2-stage Cluster  Sample,90-94.9%
+Washington,WA,2013-14,89.70%,89165,88.5,Voluntary Response,Less than 90%
+West Virginia,WV,2013-14,96.10%,22814,84.7,Voluntary Response,95%+
+Wisconsin,WI,2013-14,92.60%,71363,2.8,Stratified  2-stage Cluster Sample,90-94.9%
+Wyoming,WY,2013-14,NA,,NA,Not Conducted,NA
+Alabama,AL,2012-13,92.80%,72929,100,Census,90-94.9%
+Alaska,AK,2012-13,NA,10319,97.8,Census,NA
+Arizona,AZ,2012-13,94.50%,90054,97.6,Census,90-94.9%
+Arkansas,AR,2012-13,85.90%,43212,96.3,Census,Less than 90%
+California,CA,2012-13,92.70%,535523,99,Census,90-94.9%
+Colorado,CO,2012-13,85.70%,70657,0.5,Simple Random Sample,Less than 90%
+Connecticut,CT,2012-13,97.10%,41604,100,Census,95%+
+Delaware,DE,2012-13,95.70%,11997,7.8,2-stage Cluster Sample,95%+
+District of Columbia,DC,2012-13,NA,7842,100,Census,NA
+Florida,FL,2012-13,92.10%,234628,100,Census,90-94.9%
+Georgia,GA,2012-13,95.10%,142732,2.4,2-stage Cluster Sample,95%+
+Hawaii,HI,2012-13,NA,20104,6.7,2-stage Cluster Sample,NA
+Idaho,ID,2012-13,88.40%,23888,100,Census,Less than 90%
+Illinois,IL,2012-13,95.50%,166884,100,Census,95%+
+Indiana,IN,2012-13,95.40%,86983,83.4,Voluntary Response,95%+
+Iowa,IA,2012-13,90.50%,41701,99.9,Census,90-94.9%
+Kansas,KS,2012-13,90.00%,40738,31.8,Stratified 1-stage Sample  (public);  Census (private),90-94.9%
+Kentucky,KY,2012-13,92.40%,58466,97.2,Census,90-94.9%
+Louisiana,LA,2012-13,96.60%,68874,100,Census,95%+
+Maine,ME,2012-13,91.30%,14313,94.6,Census,90-94.9%
+Maryland,MD,2012-13,98.20%,75007,84.3,Voluntary Response,95%+
+Massachusetts,MA,2012-13,94.80%,79661,97.6,Census,90-94.9%
+Michigan,MI,2012-13,94.40%,124662,100,Census,90-94.9%
+Minnesota,MN,2012-13,96.30%,73310,100,Census,95%+
+Mississippi,MS,2012-13,99.90%,46595,100,Census,95%+
+Missouri,MO,2012-13,96.70%,78416,5.9,2-stage Cluster Sample,95%+
+Montana,MT,2012-13,94.80%,12516,95.8,Census,90-94.9%
+Nebraska,NE,2012-13,96.00%,24999,96.6,Census,95%+
+Nevada,NV,2012-13,93.60%,36070,4.3,2-stage Cluster Sample,90-94.9%
+New Hampshire,NH,2012-13,NA,12943,99.2,Census,NA
+New Jersey,NJ,2012-13,97.00%,122516,96.7,Census,95%+
+New Mexico,NM,2012-13,93.90%,29279,3.3,2-stage Cluster Sample,90-94.9%
+New York,NY,2012-13,96.60%,239484,100,Census,95%+
+North Carolina,NC,2012-13,NA,130612,97.3,Census,NA
+North Dakota,ND,2012-13,89.90%,9503,4.9,2-stage Cluster Sample,Less than 90%
+Ohio,OH,2012-13,96.30%,163687,86.9,Census,95%+
+Oklahoma,OK,2012-13,90.50%,56943,95.5,Census,90-94.9%
+Oregon,OR,2012-13,93.50%,47102,100,Census,90-94.9%
+Pennsylvania,PA,2012-13,87.00%,151364,97.5,Census,Less than 90%
+Rhode Island,RI,2012-13,94.20%,12552,75.2,Voluntary Response,90-94.9%
+South Carolina,SC,2012-13,90.90%,61799,17.9,1-stage Cluster Sample,90-94.9%
+South Dakota,SD,2012-13,97.90%,12468,100,Census,95%+
+Tennessee,TN,2012-13,94.50%,85801,97,Census,90-94.9%
+Texas,TX,2012-13,97.50%,414688,96.6,Census,95%+
+Utah,UT,2012-13,96.30%,54605,100,Census,95%+
+Vermont,VT,2012-13,92.80%,6792,100,Census,90-94.9%
+Virginia,VA,2012-13,93.10%,104826,4.2,2-stage Cluster Sample,90-94.9%
+Washington,WA,2012-13,91.70%,87773,94.7,Census,90-94.9%
+West Virginia,WV,2012-13,96.30%,22588,86.5,Voluntary Response,95%+
+Wisconsin,WI,2012-13,92.80%,72416,1.8,2-stage Cluster Sample,90-94.9%
+Wyoming,WY,2012-13,97.50%,8133,100,Census,95%+
+Alabama,AL,2011-12,93.60%,73190,100,Census,90-94.9%
+Alaska,AK,2011-12,NA,10286,7.3,Non-random Cluster Sample,NA
+Arizona,AZ,2011-12,94.70%,88293,96.9,Census,90-94.9%
+Arkansas,AR,2011-12,94.90%,38754,92.2,Census,90-94.9%
+California,CA,2011-12,93.20%,542544,97.6,Census,90-94.9%
+Colorado,CO,2011-12,86.80%,70142,0.5,Simple Random Sample,Less than 90%
+Connecticut,CT,2011-12,97.40%,45695,100,Census,95%+
+Delaware,DE,2011-12,96.90%,11327,7.4,2-stage Cluster Sample,95%+
+District of Columbia,DC,2011-12,NA,6854,100,Census,NA
+Florida,FL,2011-12,92.60%,225532,100,Census,90-94.9%
+Georgia,GA,2011-12,96.60%,143065,1.9,2-stage Cluster Sample,95%+
+Hawaii,HI,2011-12,NA,19443,7.7,2-stage Cluster Sample,NA
+Idaho,ID,2011-12,89.20%,22762,100,Census,Less than 90%
+Illinois,IL,2011-12,97.30%,163311,100,Census,95%+
+Indiana,IN,2011-12,93.30%,83416,67.5,Voluntary Response,90-94.9%
+Iowa,IA,2011-12,91.10%,40978,100,Census,90-94.9%
+Kansas,KS,2011-12,88.20%,38402,52.7,Stratified 1-stage Sample  (public);  Census (private),Less than 90%
+Kentucky,KY,2011-12,92.00%,58185,91.8,Census,90-94.9%
+Louisiana,LA,2011-12,98.10%,69013,100,Census,95%+
+Maine,ME,2011-12,93.00%,13829,97,Census,90-94.9%
+Maryland,MD,2011-12,98.70%,72957,67.2,Voluntary Response,95%+
+Massachusetts,MA,2011-12,94.20%,79551,97.5,Census,90-94.9%
+Michigan,MI,2011-12,95.00%,124962,100,Census,95%+
+Minnesota,MN,2011-12,95.70%,71213,99.2,Census,95%+
+Mississippi,MS,2011-12,99.20%,44912,100,Census,95%+
+Missouri,MO,2011-12,96.80%,75240,4.7,2-stage Cluster Sample,95%+
+Montana,MT,2011-12,95.00%,12128,100,Census,95%+
+Nebraska,NE,2011-12,99.00%,26715,96.6,Census,95%+
+Nevada,NV,2011-12,95.30%,36557,5.2,2-stage Cluster Sample,95%+
+New Hampshire,NH,2011-12,NA,13022,100,Census,NA
+New Jersey,NJ,2011-12,NA,118669,96.6,Census,NA
+New Mexico,NM,2011-12,95.70%,29159,2,2-stage Cluster Sample,95%+
+New York,NY,2011-12,96.90%,236016,100,Census,95%+
+North Carolina,NC,2011-12,NA,128854,95.4,Census,NA
+North Dakota,ND,2011-12,90.60%,8412,5.8,Convenient,90-94.9%
+Ohio,OH,2011-12,96.10%,146144,94.5,Convenient,95%+
+Oklahoma,OK,2011-12,95.00%,52987,90.9,Census,95%+
+Oregon,OR,2011-12,94.00%,45855,100,Census,90-94.9%
+Pennsylvania,PA,2011-12,86.90%,148042,99,Census,Less than 90%
+Rhode Island,RI,2011-12,91.70%,12552,13.9,2-stage Cluster Sample,90-94.9%
+South Carolina,SC,2011-12,94.50%,59307,10.7,1-stage Cluster Sample,90-94.9%
+South Dakota,SD,2011-12,97.40%,12127,100,Census,95%+
+Tennessee,TN,2011-12,97.30%,83950,99.9,Census,95%+
+Texas,TX,2011-12,99.30%,388178,100,Census,95%+
+Utah,UT,2011-12,98.00%,53800,100,Census,95%+
+Vermont,VT,2011-12,92.90%,6548,100,Census,90-94.9%
+Virginia,VA,2011-12,93.00%,101121,4.3,2-stage Cluster Sample,90-94.9%
+Washington,WA,2011-12,91.80%,85134,89.1,Voluntary Response,90-94.9%
+West Virginia,WV,2011-12,92.00%,22449,94.9,Convenient,90-94.9%
+Wisconsin,WI,2011-12,93.10%,70672,2.3,2-stage Cluster Sample,90-94.9%
+Wyoming,WY,2011-12,NA,,NA,Not Conducted,NA
+Alabama,AL,2010-11,NA,,NA,NA,NA
+Alaska,AK,2010-11,NA,,NA,NA,NA
+Arizona,AZ,2010-11,NA,,NA,NA,NA
+Arkansas,AR,2010-11,NA,,NA,NA,NA
+California,CA,2010-11,NA,,NA,NA,NA
+Colorado,CO,2010-11,NA,,NA,NA,NA
+Connecticut,CT,2010-11,NA,,NA,NA,NA
+Delaware,DE,2010-11,NA,,NA,NA,NA
+District of Columbia,DC,2010-11,NA,,NA,NA,NA
+Florida,FL,2010-11,NA,,NA,NA,NA
+Georgia,GA,2010-11,NA,,NA,NA,NA
+Hawaii,HI,2010-11,NA,,NA,NA,NA
+Idaho,ID,2010-11,NA,,NA,NA,NA
+Illinois,IL,2010-11,NA,,NA,NA,NA
+Indiana,IN,2010-11,NA,,NA,NA,NA
+Iowa,IA,2010-11,NA,,NA,NA,NA
+Kansas,KS,2010-11,NA,,NA,NA,NA
+Kentucky,KY,2010-11,NA,,NA,NA,NA
+Louisiana,LA,2010-11,NA,,NA,NA,NA
+Maine,ME,2010-11,NA,,NA,NA,NA
+Maryland,MD,2010-11,NA,,NA,NA,NA
+Massachusetts,MA,2010-11,NA,,NA,NA,NA
+Michigan,MI,2010-11,NA,,NA,NA,NA
+Minnesota,MN,2010-11,NA,,NA,NA,NA
+Mississippi,MS,2010-11,NA,,NA,NA,NA
+Missouri,MO,2010-11,NA,,NA,NA,NA
+Montana,MT,2010-11,NA,,NA,NA,NA
+Nebraska,NE,2010-11,NA,,NA,NA,NA
+Nevada,NV,2010-11,NA,,NA,NA,NA
+New Hampshire,NH,2010-11,NA,,NA,NA,NA
+New Jersey,NJ,2010-11,NA,,NA,NA,NA
+New Mexico,NM,2010-11,NA,,NA,NA,NA
+New York,NY,2010-11,NA,,NA,NA,NA
+North Carolina,NC,2010-11,NA,,NA,NA,NA
+North Dakota,ND,2010-11,NA,,NA,NA,NA
+Ohio,OH,2010-11,NA,,NA,NA,NA
+Oklahoma,OK,2010-11,NA,,NA,NA,NA
+Oregon,OR,2010-11,NA,,NA,NA,NA
+Pennsylvania,PA,2010-11,NA,,NA,NA,NA
+Rhode Island,RI,2010-11,NA,,NA,NA,NA
+South Carolina,SC,2010-11,NA,,NA,NA,NA
+South Dakota,SD,2010-11,NA,,NA,NA,NA
+Tennessee,TN,2010-11,NA,,NA,NA,NA
+Texas,TX,2010-11,NA,,NA,NA,NA
+Utah,UT,2010-11,NA,,NA,NA,NA
+Vermont,VT,2010-11,NA,,NA,NA,NA
+Virginia,VA,2010-11,NA,,NA,NA,NA
+Washington,WA,2010-11,NA,,NA,NA,NA
+West Virginia,WV,2010-11,NA,,NA,NA,NA
+Wisconsin,WI,2010-11,NA,,NA,NA,NA
+Wyoming,WY,2010-11,NA,,NA,NA,NA
+Alabama,AL,2009-10,94.00%,75358,100,Census,90-94.9%
+Alaska,AK,2009-10,NA,9641,76.4,Voluntary Response,NA
+Arizona,AZ,2009-10,95.00%,89287,93.9,Census,95%+
+Arkansas,AR,2009-10,98.30%,34733,100,Census,95%+
+California,CA,2009-10,93.60%,507191,100,Census,90-94.9%
+Colorado,CO,2009-10,NA,,NA,Not Conducted,NA
+Connecticut,CT,2009-10,98.50%,46158,100,Census,95%+
+Delaware,DE,2009-10,89.70%,11327,9.2,Random Sample,Less than 90%
+District of Columbia,DC,2009-10,NA,6092,100,Census,NA
+Florida,FL,2009-10,91.30%,218630,100,Census,90-94.9%
+Georgia,GA,2009-10,99.60%,141949,1.2,Random Sample,95%+
+Hawaii,HI,2009-10,NA,18427,6.4,Random Sample,NA
+Idaho,ID,2009-10,87.00%,22624,100,Census,Less than 90%
+Illinois,IL,2009-10,94.50%,165845,100,Census,90-94.9%
+Indiana,IN,2009-10,92.80%,84390,94.7,Census,90-94.9%
+Iowa,IA,2009-10,84.50%,42698,100,Census,Less than 90%
+Kansas,KS,2009-10,90.90%,39073,39.1,Stratified 1-stage Sample  (public);  Census (private),90-94.9%
+Kentucky,KY,2009-10,92.20%,56526,92.9,Census,90-94.9%
+Louisiana,LA,2009-10,96.90%,53846,100,Census,95%+
+Maine,ME,2009-10,95.50%,14162,75.3,Voluntary Response,95%+
+Maryland,MD,2009-10,98.90%,75061,75,Voluntary Response,95%+
+Massachusetts,MA,2009-10,93.00%,74476,100,Census,90-94.9%
+Michigan,MI,2009-10,95.30%,129810,100,Census,95%+
+Minnesota,MN,2009-10,95.10%,70653,100,Census,95%+
+Mississippi,MS,2009-10,99.70%,46922,100,Census,95%+
+Missouri,MO,2009-10,97.30%,75958,3,Random Sample,95%+
+Montana,MT,2009-10,95.50%,12335,98.8,Census,95%+
+Nebraska,NE,2009-10,97.50%,29607,96.4,Census,95%+
+Nevada,NV,2009-10,94.50%,35209,5.6,Random Sample,90-94.9%
+New Hampshire,NH,2009-10,NA,,NA,Not Conducted,NA
+New Jersey,NJ,2009-10,NA,118347,95.1,Census,NA
+New Mexico,NM,2009-10,97.60%,26318,2.2,Random Sample,95%+
+New York,NY,2009-10,97.60%,229273,100,Census,95%+
+North Carolina,NC,2009-10,NA,116087,96,Census,NA
+North Dakota,ND,2009-10,92.20%,8323,6,Random Sample,90-94.9%
+Ohio,OH,2009-10,88.60%,131137,100,Census,Less than 90%
+Oklahoma,OK,2009-10,97.30%,51128,88.9,Voluntary Response,95%+
+Oregon,OR,2009-10,94.40%,44676,100,Census,90-94.9%
+Pennsylvania,PA,2009-10,86.90%,149656,100,Census,Less than 90%
+Rhode Island,RI,2009-10,92.10%,11818,11.6,Random Sample,90-94.9%
+South Carolina,SC,2009-10,87.20%,53725,10.2,Random Sample,Less than 90%
+South Dakota,SD,2009-10,96.80%,11499,100,Census,95%+
+Tennessee,TN,2009-10,97.40%,90811,88.1,Voluntary Response,95%+
+Texas,TX,2009-10,98.10%,381425,98.3,Census,95%+
+Utah,UT,2009-10,97.70%,49957,100,Census,95%+
+Vermont,VT,2009-10,91.80%,6713,100,Census,90-94.9%
+Virginia,VA,2009-10,92.10%,100891,4.4,Random Sample,90-94.9%
+Washington,WA,2009-10,91.70%,81511,93.3,Census,90-94.9%
+West Virginia,WV,2009-10,91.20%,22730,86.7,Voluntary Response,90-94.9%
+Wisconsin,WI,2009-10,94.20%,61095,2.3,Random Sample,90-94.9%
+Wyoming,WY,2009-10,NA,,NA,Not Conducted,NA
