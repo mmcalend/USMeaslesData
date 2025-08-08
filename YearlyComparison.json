@@ -79,9 +79,9 @@
   {
     "State": "Idaho",
     "2024 Cases": 1,
-    "2025 Cases": 0,
-    "Change Indicator": "\u25bc",
-    "Percent Change": -100.0
+    "2025 Cases": 1,
+    "Change Indicator": "\u279d",
+    "Percent Change": 0.0
   },
   {
     "State": "Illinois",
@@ -204,9 +204,9 @@
   {
     "State": "New Mexico",
     "2024 Cases": 2,
-    "2025 Cases": 96,
+    "2025 Cases": 97,
     "Change Indicator": "\u25b2",
-    "Percent Change": 4700.0
+    "Percent Change": 4750.0
   },
   {
     "State": "New York",
@@ -286,9 +286,9 @@
   {
     "State": "Texas",
     "2024 Cases": 1,
-    "2025 Cases": 796,
+    "2025 Cases": 800,
     "Change Indicator": "\u25b2",
-    "Percent Change": 79500.0
+    "Percent Change": 79900.0
   },
   {
     "State": "Utah",
