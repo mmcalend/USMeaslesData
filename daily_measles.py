@@ -201,3 +201,60 @@ for key, value in cdc_data.items():
 # --- Write CDC cleaned data
 pd.DataFrame([cleaned_data]).to_csv("USMeaslesCasesDetails.csv", index=False)
 
+
+# --- CDC Weekly Rash-Onset Data ---
+cdc_weekly_url = "https://www.cdc.gov/wcms/vizdata/measles/MeaslesCasesWeekly.json"
+cdc_weekly = requests.get(cdc_weekly_url).json()
+
+if isinstance(cdc_weekly, list):
+    df_cdc_weekly = pd.DataFrame(cdc_weekly)
+elif isinstance(cdc_weekly, dict):
+    # Common CDC WCMS patterns
+    for key in ("data", "dataset", "results", "rows"):
+        if key in cdc_weekly and isinstance(cdc_weekly[key], list):
+            df_cdc_weekly = pd.DataFrame(cdc_weekly[key])
+            break
+    else:
+        if all(isinstance(v, list) for v in cdc_weekly.values()):
+            df_cdc_weekly = pd.DataFrame(cdc_weekly)
+        else:
+            raise ValueError("Unrecognized CDC JSON structure for weekly data")
+else:
+    raise ValueError("Unexpected JSON format from CDC weekly URL")
+
+# Normalize likely column names
+def pick(colnames, candidates):
+    low = {c.lower().strip(): c for c in colnames}
+    for cand in candidates:
+        if cand in low:
+            return low[cand]
+    return None
+
+date_col = pick(df_cdc_weekly.columns, [
+    "week start date", "week_start_date", "mmwr_week_start", "week", "weekstart"
+])
+cases_col = pick(df_cdc_weekly.columns, [
+    "cases", "weekly cases", "weekly_cases", "count", "value"
+])
+
+if not date_col or not cases_col:
+    raise ValueError(f"Could not find date/cases columns. Got: {list(df_cdc_weekly.columns)}")
+
+df_cdc_weekly = df_cdc_weekly[[date_col, cases_col]].rename(
+    columns={date_col: "mmwr_week_start", cases_col: "cases"}
+)
+
+df_cdc_weekly["mmwr_week_start"] = pd.to_datetime(df_cdc_weekly["mmwr_week_start"], errors="coerce")
+df_cdc_weekly["cases"] = pd.to_numeric(df_cdc_weekly["cases"], errors="coerce").fillna(0).astype(int)
+
+# Filter to 2025 MMWR year: 2024-12-29 → 2025-12-27
+start_2025 = pd.Timestamp("2024-12-29")
+end_2025   = pd.Timestamp("2025-12-27")
+df_cdc_weekly_2025 = df_cdc_weekly[
+    (df_cdc_weekly["mmwr_week_start"] >= start_2025) &
+    (df_cdc_weekly["mmwr_week_start"] <= end_2025)
+].sort_values("mmwr_week_start")
+
+df_cdc_weekly_2025.to_csv("CDC_US_WeeklyRashOnset.csv", index=False)
+
+
