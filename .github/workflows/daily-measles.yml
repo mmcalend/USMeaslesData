@@ -37,7 +37,8 @@ jobs:
           cp YearlyComparison.json output-repo/
           cp USMeaslesCases.csv output-repo/
           cp USMeaslesCasesDetails.csv output-repo/
-          cp CDC_US_WeeklyRashOnset.csv output-repo/
+          cp CDC_US_WeeklyRashOnset.csv output-repo/ || true
+          cp JHU_US_WeeklyByReport.csv output-repo/ || true
 
           cd output-repo
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mmcalend/USMeaslesData
