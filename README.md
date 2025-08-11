@@ -1,7 +1,5 @@
 #  Daily Measles Data Pipeline
 
-This project automates the daily processing of U.S. county-level measles data from the [JHU Measles Tracking Team Data Repository](https://github.com/CSSEGISandData/measles_data) at Johns Hopkins University.
-
 ---
 
 ##  What It Does
@@ -15,6 +13,7 @@ This project automates the daily processing of U.S. county-level measles data fr
   - `USMeaslesCases.csv` — weekly cases per state
   - `YearlyComparison.json` — state-level comparison (2024 vs 2025)
   - `USMeaslesCasesDetails.csv` — cleaned summary data from CDC
+  - `CDC_US_WeeklyRashOnset.csv` — CDC national rash-onset weekly measles counts for the 2025 MMWR year (2024-12-29 → 2025-12-27).
 
 ---
 
@@ -35,5 +34,6 @@ This project automates the daily processing of U.S. county-level measles data fr
 | `USMeaslesCases.csv`              | Output: Weekly state-level cases     |
 | `YearlyComparison.json`           | Output: 2024 vs 2025 comparison      |
 | `USMeaslesCasesDetails.csv`       | Output: Cleaned CDC estimates        |
+| `CDC_US_WeeklyRashOnset.csv`	    | Output: National weekly rash-onset cases (CDC)|
 
 maintaned by mmcalend@asu.edu
