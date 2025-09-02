@@ -34,7 +34,7 @@
   {
     "State": "Colorado",
     "2024 Cases": 0,
-    "2025 Cases": 22,
+    "2025 Cases": 27,
     "Change Indicator": "\u25b2"
   },
   {
@@ -197,9 +197,9 @@
   {
     "State": "New Jersey",
     "2024 Cases": 3,
-    "2025 Cases": 7,
+    "2025 Cases": 9,
     "Change Indicator": "\u25b2",
-    "Percent Change": 133.3333
+    "Percent Change": 200.0
   },
   {
     "State": "New Mexico",
@@ -327,9 +327,9 @@
   {
     "State": "Wisconsin",
     "2024 Cases": 1,
-    "2025 Cases": 21,
+    "2025 Cases": 23,
     "Change Indicator": "\u25b2",
-    "Percent Change": 2000.0
+    "Percent Change": 2200.0
   },
   {
     "State": "Wyoming",
