@@ -265,9 +265,9 @@
   {
     "State": "South Carolina",
     "2024 Cases": 1,
-    "2025 Cases": 1,
-    "Change Indicator": "\u279d",
-    "Percent Change": 0.0
+    "2025 Cases": 4,
+    "Change Indicator": "\u25b2",
+    "Percent Change": 300.0
   },
   {
     "State": "South Dakota",
@@ -293,7 +293,7 @@
   {
     "State": "Utah",
     "2024 Cases": 0,
-    "2025 Cases": 17,
+    "2025 Cases": 22,
     "Change Indicator": "\u25b2"
   },
   {
