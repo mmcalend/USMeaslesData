@@ -14,9 +14,9 @@
   {
     "State": "Arizona",
     "2024 Cases": 5,
-    "2025 Cases": 34,
+    "2025 Cases": 46,
     "Change Indicator": "\u25b2",
-    "Percent Change": 580.0
+    "Percent Change": 820.0
   },
   {
     "State": "Arkansas",
@@ -66,9 +66,9 @@
   {
     "State": "Georgia",
     "2024 Cases": 6,
-    "2025 Cases": 6,
-    "Change Indicator": "\u279d",
-    "Percent Change": 0.0
+    "2025 Cases": 7,
+    "Change Indicator": "\u25b2",
+    "Percent Change": 16.6667
   },
   {
     "State": "Hawaii",
@@ -79,16 +79,16 @@
   {
     "State": "Idaho",
     "2024 Cases": 1,
-    "2025 Cases": 7,
+    "2025 Cases": 9,
     "Change Indicator": "\u25b2",
-    "Percent Change": 600.0
+    "Percent Change": 800.0
   },
   {
     "State": "Illinois",
     "2024 Cases": 67,
-    "2025 Cases": 10,
+    "2025 Cases": 11,
     "Change Indicator": "\u25bc",
-    "Percent Change": -85.0746
+    "Percent Change": -83.5821
   },
   {
     "State": "Indiana",
@@ -293,7 +293,7 @@
   {
     "State": "Utah",
     "2024 Cases": 0,
-    "2025 Cases": 30,
+    "2025 Cases": 31,
     "Change Indicator": "\u25b2"
   },
   {
