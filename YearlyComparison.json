@@ -211,9 +211,9 @@
   {
     "State": "New York",
     "2024 Cases": 15,
-    "2025 Cases": 23,
+    "2025 Cases": 24,
     "Change Indicator": "\u25b2",
-    "Percent Change": 53.3333
+    "Percent Change": 60.0
   },
   {
     "State": "North Carolina",
@@ -265,9 +265,9 @@
   {
     "State": "South Carolina",
     "2024 Cases": 1,
-    "2025 Cases": 4,
+    "2025 Cases": 5,
     "Change Indicator": "\u25b2",
-    "Percent Change": 300.0
+    "Percent Change": 400.0
   },
   {
     "State": "South Dakota",
